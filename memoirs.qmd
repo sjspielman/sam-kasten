@@ -2,6 +2,10 @@
 title: "Memoirs"
 ---
 
-Like many other actors and actress in the American Yiddish theater, Sam published his memoirs in the Yiddish press.
+<!-- Blank page, only redirects to memoirs -->
 
-[They are available in e-book form here!](https://sjspielman.github.io/sam-kasten-memoirs)
+```{=html}
+<script type="text/javascript">
+window.location.replace("https://sjspielman.github.io/sam-kasten-memoirs/");
+</script>
+```
