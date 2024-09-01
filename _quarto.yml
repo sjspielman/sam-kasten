@@ -2,6 +2,12 @@ project:
   type: website
 
 website:
+  announcement:
+    icon: exclamation-circle
+    dismissable: true
+    content: "**URLs have changed!** Memoirs are now available from [https://sjspielman.github.io/sam-kasten-memoirs](https://sjspielman.github.io/sam-kasten-memoirs)."
+    type: info
+    position: below-navbar
   title: "The Sam Kasten Legacy Project"
   navbar:
     search: true
@@ -14,9 +20,8 @@ website:
         text: Memoirs
       - href: ./articles/index.qmd
         text: Articles
-
-      
-body-footer: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
+  page-footer: |
+    '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.'
 
 format:
   html:
