@@ -2,7 +2,6 @@
 
 _By [Berl Botvinik](https://congressforjewishculture.org/people/6749/)_
 
-##### _Link to [Forverts article](https://www.nli.org.il/en/newspapers/frw/1920/04/18/01/article/58/)_ {.unnumbered}
 
 <br>
 
@@ -16,7 +15,8 @@ Look at him - at his energy, at his fervor, at what a cheerful guy he is. He loo
 Everyone loves {{< var kestin >}}. Not only does everyone love him when he is on stage and makes us believe that the whole world dances and sings and jumps just for us, but everyone also loves him in day-to-day life, because he is a good friend and a loving man - "a {{< var mentsh >}} with a face of grace and with a soul of grace."<br><br>
 And that's the main thing about {{< var kestin >}}. He isn't only a dancer and a jumper. His every dance and his every jump are done with a thousand graces. Deep in his soul glows a true {{< var mentshlikher >}}^["{{< var mentsh >}}-ish"] spark with joy and love for everyone. In his grace there is a modesty, a sincerity, an affability that accompanies him on the stage just as much as in his life.
 
-![](img/1920-04-18_forverts.png){width=3.65in}
+![[Link to {{< var forverts >}} article.](https://www.nli.org.il/en/newspapers/frw/1920/04/18/01/article/58/)](img/1920-04-18_forverts.png){width=3.65in}
+
 
 :::
 
