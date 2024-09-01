@@ -13,3 +13,4 @@ Sam was most likely born in 1869, so some of these birthday years are a bit off,
 Each link below will take you to the given article translation:
 
 * [50th birthday](./1920-04-18_50th-birthday.qmd) (published 1920-04-18 in the {{< var forverts >}})
+* [60th birthday](./1930-04-04_60th-birthday.qmd) (published 1920-04-04 in the {{< var forverts >}})

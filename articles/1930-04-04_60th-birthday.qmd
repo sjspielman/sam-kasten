@@ -1,23 +1,35 @@
 # Sam Kestin will be part of a performance for his 60th birthday party
 
-##### __ {.unnumbered}
-
 <br>
+
+A big head, white as milk. A face, clear and youthful. Eyes, impish and childlike. Even though he's turning 60 years old, he has the look of a 16-year-old kid. He dances and jumps up, rising with the enthusiasm and agility of a young slapstick comedian. Whether he is on the stage or in in some kind of Romanian cellar, he is always ready to pull a mischievous trick or make a practical joke. He will never grow old. He really is one of those types - the sort who never gets old.
+
+You know, of course, that we're referring to no other than our dear {{< var sam-full >}}. He appeared in _Ben Hador_, in {{< var yiziat >}}, and in [{{< var goldfaden >}}](https://www.museumoffamilyhistory.com/yt/lex/G/goldfaden-abraham.htm)'s operettas. With the same passion as ever, he now sings and dances in [{{< var rumshinsky >}}](https://www.museumoffamilyhistory.com/yt/lex/R/rumshinsky-joseph.htm)'s operettas. He has performed with [Adler](https://www.museumoffamilyhistory.com/yt/lex/A/adler-jacob-p.htm), [Kessler](https://en.wikipedia.org/wiki/David_Kessler_(actor)), and [Mogulesko](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm). He has also performed with [Aaron Lebedeff](https://www.museumoffamilyhistory.com/yt/lex/L/lebedeff-aaron.htm), [Leon Blank](https://www.museumoffamilyhistory.com/yt/lex/B/blank-leon.htm), [Ludwiz Satz](https://www.museumoffamilyhistory.com/yt/lex/S/satz-ludwig.htm), and [Molly Picon](https://www.museumoffamilyhistory.com/yt/lex/P/picon-molly.htm).[^history]
+
+Those who saw him perform some 30 years ago will swear to you on their life that he is still the same {{< var kestin >}}, with the same youthful energy as before. 
+
+{{< var kestin >}} has performed on the Yiddish stage for 44 years. He was 16 years old when he arrived in America, and he worked in his mother's "shirt factory" before he become an actor. This was in Philadelphia. The first performance he appeared in was in the [Dramatic Hall](https://www.museumoffamilyhistory.com/jqp-wheatley.htm), which was located at 5th and Gaskill Sts. Now that theater is a Hungarian shul. He began his career in theater acting with [Boris Thomashevsky](https://www.museumoffamilyhistory.com/yt/lex/T/thomashefsky-boris.htm). His first role was as a young boy who sang "_Heyse bobkelakh_"^[hot buns] in {{< var goldfaden >}}'s {{< var sorceress >}}^[_The Sorceress_].
+
+No, {{< var kestin >}} didn't regret leaving his mother's factory to become an actor. He would probably now be a respected businessman. Had he stayed with his mother, he would certainly be wealthier than he is now. But he would not have had the interesting life of a stage artist. He would not have experienced all the ups and downs, the successes and failures, the struggles and the praises - all the bitter and sweet moments that make an actor's life so fascinating and interesting.
+
+And {{< var kestin >}}'s career was certainly a lucky one. He experienced fewer disappointments and fewer heartbreaks compared to other actors. He was always beloved by the audiences, by the theater managers, and by his colleagues - not only as an artist, but also as a friend and good brother. People speak of him with a heartful smile. He is the beloved scamp with the white head of hair.
+
+Just mention {{< var griner-m >}}, out emerges "Zalman the shodchan". _Di Nekste-Dorige_^["The Lady Next Door", a play by {{< var kobrin-full >}}] - and right away you see the operator, the Litvak. Today, the little father-in-law in [{{< var asch >}}](https://www.museumoffamilyhistory.com/yt/lex/A/asch-sholem.htm)'s {{< var gloybn >}} and tens of other roles that {{< var kestin >}} has brought to life with his own charm and "{{< var kestin >}}-ish" ease. It's not for nothing that the audience sits in the Second Avenue Theater so quietly when {{< var kestin >}} and [Madame Regina Prager](https://www.museumoffamilyhistory.com/yt/lex/P/prager-regina.htm) sing the song that {{< var rumshinsky-full >}} wrote for them: "Di alte gute tsaytn"^["The good old times"]. In this song, they sing old {{< var nigunim >}}, old arrangements from their times when the Yiddish theater was young, when the older generation still stood at the edge of their careers.
+
+At 8 o'clock Sunday evening, the 12th of April, there will be performance of _Di Komediantke_ in the Second Avenue Theater to kick off a 60-year birthday celebration in honor of {{< var kestin >}}. At the performance, {{< var kestin >}} will be given a test - is he really becoming of his six decades? His friends are very afraid that he won't pass the test. So mischievous, so childlike is {{< var kestin >}} that he really should keep up appearances as is befitting of a young man who is nearly 60.
+
+But {{< var kestin >}} can also perform in serious roles. And if it is absolutely necessary, he will put on the role of a 60-year old {{< var yid >}} at the party - stately, respectable, serious.
+
+The party was arranged by the {{< var hau >}}. Between the acts, the following will speak to celebrate {{< var sam >}}: [Reuben Guskin](https://www.museumoffamilyhistory.com/yt/lex/G/guskin-reuben.htm), the Manager of the union; [Jean Greenfield](https://www.museumoffamilyhistory.com/yt/lex/G/greenfield-jean.htm), Acting President; [Abe Sincoff](https://www.museumoffamilyhistory.com/yt/lex/S/sincoff-abe.htm), President of the Theatrical Alliance; [Jacob Kalich](https://www.museumoffamilyhistory.com/yt/lex/K/kalich-jacob.htm), Director of the Second Avenue Theater; and others.
+
+After the performance there will be an intimate banquet for {{< var kestin >}} with a small number of friends. At the banquet, they'll live it up as is befitting of a 60th birthday celebration.
+
+
 
 ![[Link to {{< var forverts >}} article](https://www.nli.org.il/en/newspapers/frw/1930/04/04/01/article/34/)](img/1930-04-04_forverts.png)
 
 
-A big head, white as milk. A face, clear and youthful. Eyes, impish and childlike. Even though he's turning 60 years old, he has the look of a 16-year-old kid. He dances and jumps up, rising with the enthusiasm and agility of a young slapstick comedian. Whether he is on the stage or in in some kind of Romanian cellar, he is always ready to pull a mischevious trick or make practical joke. He will never grow old. He really is one of those types - the sort who never gets old.
 
-You know, of course, that we're referring to no other than our dear {{< var sam-full >}}. He appeared in _Ben Hador_, in {{< var yiziat >}}, and in {{< var goldfaden >}}'s operettas. With the same passion as ever, he now sings and dances in {{< var rumshinsky >}}'s operettas. He has performed with Adler, Kessler, and Mogulesko. He has also performed with Aaron Lebedev, Leon Blank, Ludwiz Satz, and Molly Picon.[^history]
-
-Those who saw him perform some 30 years ago will swear to you on their life that he is still the same {{< var kestin >}}, with the same youthful energy as before. 
-
-{{< var kestin >}} has performed on the Yiddish stage for 44 years. He was 16 years old when he arrived in America, and he worked in his mother's "shirt factory" before he become an actor. This was in Philadelphia. The first performance he appeared in was in the Dramatic Hall, which was located at 5th and Gaskill Sts. Now that theater is a Hungarian shul. He began his career in theater acting with Boris Thomashevsky. His first role was as a young boy who sang _"Heyse bobkelakh_"^[hot buns] in {{< var goldfaden >}}'s {{< var sorceress >}}^[_The Sorceress_].
-
-No, {{< var kestin >}} didn't regret leaving his mother's factory to become an actor. He would probably now be a respected businessman. Had he stayed with his mother, he would certainly be wealthier than he is now. But he would not have had the interesting life of a stage artist. He would not have experienced all the ups and downs, the successes and failures, the struggles and the praises - all the bitter and sweet moments that make an actor's life so fascinating and interesting.
-
-And {{< var kestin >}}'s career was certainly a lucky one!
 
 [^history]:
-    This paragraph showcasing {{< var sam >}}'s background tracks the history of the Yiddish theater. From the early plays [Horowitz _shund_ (low-brow, unsophisticated "trash") plays and actors like Adler], to the more modern plays ({{< var rumshinsky >}} operettas and actors like Lebedev).
+    This paragraph showcasing {{< var sam >}}'s background tracks the history of the Yiddish theater. From the early plays [Horowitz _shund_ (low-brow, unsophisticated "trash") plays and actors like Adler], to the more modern plays ({{< var rumshinsky >}} operettas and actors like Lebedeff).
