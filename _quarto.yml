@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "The Sam Kasten Legacy Project"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about-sam.qmd
+        text: About Sam
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
