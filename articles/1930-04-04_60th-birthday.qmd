@@ -1,0 +1,23 @@
+# Sam Kestin will be part of a performance for his 60th birthday party
+
+##### __ {.unnumbered}
+
+<br>
+
+![[Link to {{< var forverts >}} article](https://www.nli.org.il/en/newspapers/frw/1930/04/04/01/article/34/)](img/1930-04-04_forverts.png)
+
+
+A big head, white as milk. A face, clear and youthful. Eyes, impish and childlike. Even though he's turning 60 years old, he has the look of a 16-year-old kid. He dances and jumps up, rising with the enthusiasm and agility of a young slapstick comedian. Whether he is on the stage or in in some kind of Romanian cellar, he is always ready to pull a mischevious trick or make practical joke. He will never grow old. He really is one of those types - the sort who never gets old.
+
+You know, of course, that we're referring to no other than our dear {{< var sam-full >}}. He appeared in _Ben Hador_, in {{< var yiziat >}}, and in {{< var goldfaden >}}'s operettas. With the same passion as ever, he now sings and dances in {{< var rumshinsky >}}'s operettas. He has performed with Adler, Kessler, and Mogulesko. He has also performed with Aaron Lebedev, Leon Blank, Ludwiz Satz, and Molly Picon.[^history]
+
+Those who saw him perform some 30 years ago will swear to you on their life that he is still the same {{< var kestin >}}, with the same youthful energy as before. 
+
+{{< var kestin >}} has performed on the Yiddish stage for 44 years. He was 16 years old when he arrived in America, and he worked in his mother's "shirt factory" before he become an actor. This was in Philadelphia. The first performance he appeared in was in the Dramatic Hall, which was located at 5th and Gaskill Sts. Now that theater is a Hungarian shul. He began his career in theater acting with Boris Thomashevsky. His first role was as a young boy who sang _"Heyse bobkelakh_"^[hot buns] in {{< var goldfaden >}}'s {{< var sorceress >}}^[_The Sorceress_].
+
+No, {{< var kestin >}} didn't regret leaving his mother's factory to become an actor. He would probably now be a respected businessman. Had he stayed with his mother, he would certainly be wealthier than he is now. But he would not have had the interesting life of a stage artist. He would not have experienced all the ups and downs, the successes and failures, the struggles and the praises - all the bitter and sweet moments that make an actor's life so fascinating and interesting.
+
+And {{< var kestin >}}'s career was certainly a lucky one!
+
+[^history]:
+    This paragraph showcasing {{< var sam >}}'s background tracks the history of the Yiddish theater. From the early plays [Horowitz _shund_ (low-brow, unsophisticated "trash") plays and actors like Adler], to the more modern plays ({{< var rumshinsky >}} operettas and actors like Lebedev).
