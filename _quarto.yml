@@ -14,7 +14,7 @@ website:
     left:
       - href: ./index.qmd
         text: Home
-      - href: ./about_sam.qmd
+      - href: ./about-sam.qmd
         text: About Sam
       - href: ./memoirs.qmd
         text: Memoirs
