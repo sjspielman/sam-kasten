@@ -15,4 +15,4 @@ Each link below will take you to the given article translation:
 * **50th birthday**: [_{{< var sam-full >}} turns 50_](./1920-04-18_50th-birthday.qmd), published 1920-04-18 in the {{< var forverts >}}
 * **60th birthday**: [_{{< var sam-full >}} will be part of a performance for his 60th birthday jubilee_](./1930-04-04_60th-birthday.qmd), published 1930-04-04 in the {{< var forverts >}}
 * **65th birthday**: [_Famous comedian {{< var sam-full >}} is turning 65_](1935-04-22_65th-birthday.qmd), published 1935-04-22 in {{< var morgen >}}
-* **70th birthday**: [_Famous comedian {{< var sam-full >}} is turning 65_](1935-04-22_65th-birthday.qmd), published 1940-03-20 in {{< var forverts >}}
+* **70th birthday**: [_A grand birthday jubilee performance for {{< var sam-full >}} in Hopkinson Theater_](1935-04-22_65th-birthday.qmd), published 1940-03-20 in {{< var forverts >}}
