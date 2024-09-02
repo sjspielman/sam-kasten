@@ -13,7 +13,3 @@ A group of his friends and colleagues organized a performance in {{< var sam-ful
 ![[Link to {{< var morgen >}} article](https://www.nli.org.il/en/newspapers/tjm/1935/04/22/01/article/23)](img/1935-04-22_morgen.png){width=2in}
 
 :::
-
-
-[^history]:
-    This paragraph showcasing {{< var sam >}}'s background tracks the history of the Yiddish theater. From the early plays [Horowitz _shund_ (low-brow, unsophisticated "trash") plays and actors like Adler], to the more modern plays ({{< var rumshinsky >}} operettas and actors like Lebedeff).

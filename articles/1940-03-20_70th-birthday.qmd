@@ -1,0 +1,13 @@
+# A grand birthday jubilee performance for {{< var sam-full >}} in Hopkinson Theater
+
+
+<br>
+
+::: {layout-ncol=2}
+
+This evening in Hopkinson Theater, there will be a special performance in honor of the 70th birthday of the well-known comedian {{< var sam-full >}}. The performance will be of _Dos Yiddishe Herz_^[Sheet music for two songs from this play: ["Dos Yiddishe herz"](https://www.loc.gov/item/2016729906/) and ["Oi is dos a mame"](https://www.loc.gov/item/2016729906/)], and {{< var sam >}} will play the role of Lamech, which the famous comedian [Sigmond Mogulesko](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm) had once played. The stars of the Hopkinson Theater will also appear in the play, including [Irving Grossman](https://www.museumoffamilyhistory.com/yt/lex/G/grossman-irving-V1.htm), Dana Goldberg^[possibly [Diana Goldberg](https://www.museumoffamilyhistory.com/yt/lex/G/goldberg-diana-V1.htm)?], and [Simon Wolf](https://www.museumoffamilyhistory.com/yt/lex/W/wolf-simon.htm).<br><br>
+After the performance, there will be a huge concert where [Aaron Lebedeff](https://www.museumoffamilyhistory.com/yt/lex/L/lebedeff-aaron.htm), [Hymie Jacobson](https://www.museumoffamilyhistory.com/yt/lex/J/jacobson-hymie.htm), [Fraydele](https://www.museumoffamilyhistory.com/yt/lex/F/fraydele-V6.htm) (the _khazante_), [Menashe Oppenheim](https://en.wikipedia.org/wiki/Menashe_Oppenheim) and the "Yiddishe mama"^[A character?]. There will also be artists from the English stage.
+
+![[Link to the {{< var forverts >}} article](https://www.nli.org.il/en/newspapers/frw/1940/03/20/01/article/74)](img/1940-03-20_forverts.png){width=5in}
+
+:::
