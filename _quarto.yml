@@ -7,7 +7,6 @@ website:
     dismissable: true
     content: "**URLs have changed!** Memoirs are now available from [https://sjspielman.github.io/sam-kasten-memoirs](https://sjspielman.github.io/sam-kasten-memoirs)."
     type: info
-    position: below-navbar
   title: "The Sam Kasten Legacy Project"
   navbar:
     search: true

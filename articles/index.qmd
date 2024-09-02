@@ -7,10 +7,11 @@ I am currently in the process of making their translations available.
 
 ## Birthdays
 
-Sam's 50th, 60th, 70th, and 80th birthdays were commemorated by the Yiddish theater community. 
+Sam's 50th, 60th, 65th, 70th, and 80th birthdays were commemorated by the Yiddish theater community. 
 Sam was most likely born in 1869, so some of these birthday years are a bit off, but such is a sign of the times!
 
 Each link below will take you to the given article translation:
 
-* [50th birthday](./1920-04-18_50th-birthday.qmd) (published 1920-04-18 in the {{< var forverts >}})
-* [60th birthday](./1930-04-04_60th-birthday.qmd) (published 1920-04-04 in the {{< var forverts >}})
+* **50th birthday**: [_{{< var sam-full >}} turns 50_](./1920-04-18_50th-birthday.qmd), published 1920-04-18 in the {{< var forverts >}}
+* **60th birthday**: [_{{< var sam-full >}} will be part of a performance for his 60th birthday jubilee_](./1930-04-04_60th-birthday.qmd), published 1930-04-04 in the {{< var forverts >}}
+* **65th birthday**: [_Famous comedian {{< var sam-full >}} is turning 65_](1935-04-22_65th-birthday.qmd), published 1935-04-22 in {{< var morgen >}}
