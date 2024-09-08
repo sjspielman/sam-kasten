@@ -22,7 +22,7 @@ Start by read his [entry in the {{< var leks >}}](https://www.museumoffamilyhist
 >
 > {{< var sam-full >}} is an institution in the Yiddish theater world.
 >
-> In whichever city {{< var kestin >}} performs, he brings happiness to the lives of the Jewish youth. This season, {{< var kestin >}} plays in the People's Theater.
+> In whichever city {{< var kestin >}} performs, he brings happiness to the lives of the Jewish youth. This season, {{< var kestin >}} plays in the People's Theater^[He played in the People's Theater from time to time during the 1925/26 season].
 
 ## Songs
 
