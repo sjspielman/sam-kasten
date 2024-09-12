@@ -74,8 +74,6 @@ Click on any picture below to scroll through them as a photo gallery.
 
 ![](img/sam2.jpeg){group="sam"}
 
-![](img/sam5.jpeg){group="sam"}
-
 
 ![](img/sam6.jpg){group="sam"}
 
