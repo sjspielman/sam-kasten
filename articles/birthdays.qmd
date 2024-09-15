@@ -23,7 +23,7 @@ In looking at such a jolly, lively, charming comedian, you'd never believe that 
 Look at him - at his energy, at his fervor, at what a cheerful guy he is. He looks like a regular {{< var boychik >}}. And yet, it's Reb {{< var shmuel >}} {{< var kestin >}}, a 50-year-old {{< var yid >}} whose daughter is already grown and herself an actress on the Yiddish stage.<br><br>
 Everyone loves {{< var kestin >}}. Not only does everyone love him when he is on stage and makes us believe that the whole world dances and sings and jumps just for us, but everyone also loves him in day-to-day life, because he is a good friend and a loving man - "a {{< var mentsh >}} with a face of grace and with a soul of grace."
 
-![[Link to {{< var forverts >}} article.](https://www.nli.org.il/en/newspapers/frw/1920/04/18/01/article/58/)](img/1920-04-18_forverts.png){width=3.65in}
+![[Link to {{< var forverts >}} article.](https://www.nli.org.il/en/newspapers/frw/1920/04/18/01/article/58/)](../img/articles/1920-04-18_forverts.png){width=3.65in}
 
 
 :::
@@ -81,7 +81,7 @@ The party was arranged by the {{< var hau >}}. Between the acts, the following w
 After the performance there will be an intimate banquet for {{< var kestin >}} with a small number of friends. At the banquet, they'll live it up as is befitting of a 60th birthday celebration.
 
 
-![[Link to {{< var forverts >}} article](https://www.nli.org.il/en/newspapers/frw/1930/04/04/01/article/34/)](img/1930-04-04_forverts.png)
+![[Link to {{< var forverts >}} article](https://www.nli.org.il/en/newspapers/frw/1930/04/04/01/article/34/)](../img/articles/1930-04-04_forverts.png)
 
 
 ## 65th birthday
@@ -95,7 +95,7 @@ Yesterday, when the beloved actor came around Cafe Royal, a great number of acto
 A group of his friends and colleagues organized a performance in {{< var sam-full >}}'s honor. Through this performance, the whole theater family will express their love and esteem for the great Yiddish actor.<br><br>
 {{< var kestin >}} himself jokes about his 65 years. The younger comedians tell {{< var sam >}} that they feel older than him, but he takes it all in good fun and says, if they hadn't reminded him that he had turned 65 yesterday, he would have thought he was only in his forties.
 
-![[Link to {{< var morgen >}} article](https://www.nli.org.il/en/newspapers/tjm/1935/04/22/01/article/23)](img/1935-04-22_morgen.png){width=2in}
+![[Link to {{< var morgen >}} article](https://www.nli.org.il/en/newspapers/tjm/1935/04/22/01/article/23)](../img/articles/1935-04-22_morgen.png){width=2in}
 
 :::
 
@@ -110,7 +110,7 @@ A group of his friends and colleagues organized a performance in {{< var sam-ful
 This evening in the [Hopkinson Theater](https://cinematreasures.org/theaters/69428), there will be a special performance in honor of the 70th birthday of the well-known comedian {{< var sam-full >}}. The performance will be of _Dos Yiddishe Herz_^[Sheet music for two songs from this play: ["Dos Yiddishe herz"](https://www.loc.gov/item/2016729906/) and ["Oi is dos a mame"](https://www.loc.gov/item/2016729906/)], and {{< var sam >}} will play the role of Lamech, which the famous comedian [{{< var mogu-full >}}](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm) had once played. The stars of the Hopkinson Theater will also appear in the play, including [Irving Grossman](https://www.museumoffamilyhistory.com/yt/lex/G/grossman-irving-V1.htm), Dana Goldberg^[possibly [Diana Goldberg](https://www.museumoffamilyhistory.com/yt/lex/G/goldberg-diana-V1.htm)?], and [Simon Wolf](https://www.museumoffamilyhistory.com/yt/lex/W/wolf-simon.htm).<br><br>
 After the performance, there will be a huge concert where [Aaron Lebedeff](https://www.museumoffamilyhistory.com/yt/lex/L/lebedeff-aaron.htm), [Hymie Jacobson](https://www.museumoffamilyhistory.com/yt/lex/J/jacobson-hymie.htm), [Fraydele](https://www.museumoffamilyhistory.com/yt/lex/F/fraydele-V6.htm) (the _khazante_), [Menashe Oppenheim](https://en.wikipedia.org/wiki/Menashe_Oppenheim) and the "Yiddishe mama"^[A character?]. There will also be artists from the English stage.
 
-![[Link to the {{< var forverts >}} article](https://www.nli.org.il/en/newspapers/frw/1940/03/20/01/article/74)](img/1940-03-20_forverts.png){width=5in}
+![[Link to the {{< var forverts >}} article](https://www.nli.org.il/en/newspapers/frw/1940/03/20/01/article/74)](../img/articles/1940-03-20_forverts.png){width=5in}
 
 :::
 
@@ -147,7 +147,7 @@ Among the great stars who have adorned the stage of the American Yiddish theater
 
 For his 80th birthday jubilee, {{< var sam-full >}} has chosen to perform one of Abraham Goldfaden's first plays, [_Kaptsnzon et Hungerman_](https://web.uwm.edu/yiddish-stage/plotting-yiddish-drama/kaptsnzon-et-hungerman-oder-di-kaprizne-kale-moyd). All of his friends and admirers wish him long life and that the Jewish world will enjoy his talent for many years to come.
 
-![[Link to the _Der Tog_ article](https://www.nli.org.il/en/newspapers/dertog/1947/06/05/01/article/68)](img/1947-06-05_dertog.png) 
+![[Link to the _Der Tog_ article](https://www.nli.org.il/en/newspapers/dertog/1947/06/05/01/article/68)](../img/articles/1947-06-05_dertog.png) 
 
 
 
