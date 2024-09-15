@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sjspielman.github.io/sam-kasten/index.html</loc>
-    <lastmod>2024-09-15T19:18:18.148Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sjspielman.github.io/sam-kasten/about-sam.html</loc>
-    <lastmod>2024-09-15T19:18:17.856Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sjspielman.github.io/sam-kasten/memoirs.html</loc>
-    <lastmod>2024-09-15T19:18:18.148Z</lastmod>
+    <lastmod>2024-09-15T21:02:52.971Z</lastmod>
   </url>
   <url>
     <loc>https://sjspielman.github.io/sam-kasten/articles/birthdays.html</loc>
-    <lastmod>2024-09-15T19:18:17.856Z</lastmod>
+    <lastmod>2024-09-15T21:02:52.675Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sjspielman.github.io/sam-kasten/memoirs.html</loc>
+    <lastmod>2024-09-15T21:02:52.971Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sjspielman.github.io/sam-kasten/about-sam.html</loc>
+    <lastmod>2024-09-15T21:02:52.675Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sjspielman.github.io/sam-kasten/articles/miscellany.html</loc>
+    <lastmod>2024-09-15T21:02:52.675Z</lastmod>
   </url>
 </urlset>
