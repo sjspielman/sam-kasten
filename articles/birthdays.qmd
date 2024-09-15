@@ -2,34 +2,59 @@
 title: Birthday celebrations 
 ---
 
-Sam's 50th, 60th, 65th, 70th, and 80th birthdays were commemorated by the Yiddish theater community^[It's worth noting that Sam was most likely born in 1869, and if so, none of the birthday celebrations actually occurred during the correct year... but such were birthdays in those days!].
+Sam's older birthdays were commemorated by the Yiddish theater community.
+It's worth noting that Sam was most likely born on April 21st, 1869. If this is indeed his birthday, then none of the birthday celebrations actually occurred during the correct year... but such were birthdays in those days!
 
 Translations of associated articles, and images of the articles themselves, are below.
 
 
 ## 50th birthday
 
-**{{< var sam-full >}} turns 50**
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [1920-04-18](https://www.nli.org.il/en/newspapers/frw/1920/04/18/01/article/58/)
+:::
 
--- _By [Berl Botvinik](https://congressforjewishculture.org/people/6749/)_
+::: {style="font-size: 130%;"}
 
-
-::: {layout-ncol=2}
-
-It's a funny thing to be a 50-year-old {{< var yid >}}. His name is {{< var shmuel >}} {{< var kestin >}}, and people call him {{< var sam >}}. His colleagues shout at him, "Say, {{< var sam >}}!" And {{< var sam >}}, who turns 50 in a few days, not only replies, but runs in jumping on one foot like a mischevious {{< var heder >}} boy, giving himself a slap on each of his two cheeks, and there he is: The 50-year-old {{< var yid >}} Sam.<br><br>
-{{< var sam-full >}}, the famous Yiddish comedian. The comedian who brings us joy and tickles our funny bone^[The Yiddish idiom used here is "tickles our laugh-machine."]. We laugh and have a good time. We laugh and feel in good health, because {{< var sam-full >}} is entertaining us.<br><br>
-In looking at such a jolly, lively, charming comedian, you'd never believe that this "party animal"^[הוליאעק] was 50 years old. Even his children^[In 1920, his children were around 26, 22, and 18 years old.] almost look older than him. He isn't only young on the stage, but he is young in his cheerful soul too. He is indeed young in his appearance and in how he lives his simple life.<br><br>
-{{< var kestin >}} is one of those rare actors who actually discloses his age and doesn't use 20-year-old photographs of himself in advertisements. The picture you see here of {{< var kestin >}} was only just taken, indeed right as he is about to turn 50. And this picture wasn't taken with any makeup or massage, but just as {{< var sam >}} is.<br><br>
-Look at him - at his energy, at his fervor, at what a cheerful guy he is. He looks like a regular {{< var boychik >}}. And yet, it's Reb {{< var shmuel >}} {{< var kestin >}}, a 50-year-old {{< var yid >}} whose daughter is already grown and herself an actress on the Yiddish stage.<br><br>
-Everyone loves {{< var kestin >}}. Not only does everyone love him when he is on stage and makes us believe that the whole world dances and sings and jumps just for us, but everyone also loves him in day-to-day life, because he is a good friend and a loving man - "a {{< var mentsh >}} with a face of grace and with a soul of grace."
-
-![[Link to {{< var forverts >}} article.](https://www.nli.org.il/en/newspapers/frw/1920/04/18/01/article/58/)](../img/articles/1920-04-18_forverts.png){width=3.65in}
-
+**{{< var sam-full >}} turns 50 years old**
 
 :::
 
+-- By [Berl Botvinik](https://congressforjewishculture.org/people/6749/)
+
+
+:::: {.columns}
+
+
+::: {.column width="60%"}
+
+It's a funny thing to be a 50-year-old {{< var yid >}}. His name is {{< var shmuel >}} {{< var kestin >}}, and people call him {{< var sam >}}. His colleagues shout at him, "Say, {{< var sam >}}!" And {{< var sam >}}, who turns 50 in a few days, not only replies, but runs in jumping on one foot like a mischevious {{< var heder >}} boy, giving himself a slap on each of his two cheeks, and there he is: The 50-year-old {{< var yid >}} Sam.
+
+{{< var sam-full >}}, the famous Yiddish comedian. The comedian who brings us joy and tickles our funny bone^[The Yiddish idiom used here is "tickles our laugh-machine."]. We laugh and have a good time. We laugh and feel in good health, because {{< var sam-full >}} is entertaining us.
+
+In looking at such a jolly, lively, charming comedian, you'd never believe that this "party animal"^[הוליאעק] was 50 years old. Even his children^[In 1920, his children were around 26, 22, and 18 years old.] almost look older than him. He isn't only young on the stage, but he is young in his cheerful soul too. He is indeed young in his appearance and in how he lives his simple life.
+
+{{< var kestin >}} is one of those rare actors who actually discloses his age and doesn't use 20-year-old photographs of himself in advertisements. The picture you see here of {{< var kestin >}} was only just taken, indeed right as he is about to turn 50. And this picture wasn't taken with any makeup or massage, but just as {{< var sam >}} is.
+
+Look at him - at his energy, at his fervor, at what a cheerful guy he is. He looks like a regular {{< var boychik >}}. And yet, it's Reb {{< var shmuel >}} {{< var kestin >}}, a 50-year-old {{< var yid >}} whose daughter is already grown and herself an actress on the Yiddish stage.
+
+Everyone loves {{< var kestin >}}. Not only does everyone love him when he is on stage and makes us believe that the whole world dances and sings and jumps just for us, but everyone also loves him in day-to-day life, because he is a good friend and a loving man - "a {{< var mentsh >}} with a face of grace and with a soul of grace."
+
 
 And that's the main thing about {{< var kestin >}}. He isn't only a dancer and a jumper. His every dance and his every jump are done with a thousand graces. Deep in his soul glows a true {{< var mentshlikher >}}^["{{< var mentsh >}}-ish"] spark with joy and love for everyone. In his grace there is a modesty, a sincerity, an affability that accompanies him on the stage just as much as in his life.
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="35%"}
+
+![](../img/articles/1920-04-18_forverts.png)
+
+:::
+::::
 
 A comedian on the Yiddish stage is the only one who plays without any arrogance in melodramas. On the Yiddish stage, a comedian is also the same one who plays the court jester to the king in Shakespeare's times. The comedian must reveal the bitter truth about the landlord, the boss, the lover, and the [parvenu](https://en.wikipedia.org/wiki/Parvenu).
 
@@ -54,9 +79,31 @@ His birthday is the 21st of April. He'll be 50-years-old on that day. The {{< va
 A huge banquet is being arranged to which all manner of actors and actresses are invited. People can give gifts to and compliments to {{< var sam >}}, who will sit calmly and reserved as befits a {{< var yid >}} who, {{< var kinehora >}}^[Literally means "no evil eye," this phrase is used to ward off the evil eye when saying something good or complimentary], is turning 50 years old.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## 60th birthday
 
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [1930-04-04](https://www.nli.org.il/en/newspapers/frw/1930/04/04/01/article/34/)
+:::
+
+::: {style="font-size: 130%;"}
+
 **{{< var sam-full >}} will be part of a performance for his 60th birthday party**
+
+:::
+
+
 
 A big head, white as milk. A face, clear and youthful. Eyes, impish and childlike. Even though he's turning 60 years old, he has the look of a 16-year-old kid. He dances and jumps up, rising with the enthusiasm and agility of a young slapstick comedian. Whether he is on the stage or in in some kind of Romanian cellar, he is always ready to pull a mischievous trick or make a practical joke. He will never grow old. He really is one of those types - the sort who never gets old.
 
@@ -81,51 +128,96 @@ The party was arranged by the {{< var hau >}}. Between the acts, the following w
 After the performance there will be an intimate banquet for {{< var kestin >}} with a small number of friends. At the banquet, they'll live it up as is befitting of a 60th birthday celebration.
 
 
-![[Link to {{< var forverts >}} article](https://www.nli.org.il/en/newspapers/frw/1930/04/04/01/article/34/)](../img/articles/1930-04-04_forverts.png)
+![](../img/articles/1930-04-04_forverts.png)
 
 
 ## 65th birthday
 
-**Famous comedian {{< var sam-full >}} is turning 65**
+::: {style="text-align: right;"}
+Published in {{< var morgen >}} on [1935-04-22](https://www.nli.org.il/en/newspapers/tjm/1935/04/22/01/article/23)
+:::
 
-::: {layout-ncol=2}
 
-Yesterday the famous comedian {{< var sam-full >}} was surprised by his friends and family with tens of telegrams wishing him a happy 65th birthday. {{< var kestin >}} is now playing in the Second Avenue Theater, and it's difficult for anyone to believe that he's really 65 years old.<br><br>
-Yesterday, when the beloved actor came around Cafe Royal, a great number of actors and actresses surprised the "young-old" actor, who felt just like a _yongermentshik_^[young man], with well wishes in honor of his birthday.<br><br>
-A group of his friends and colleagues organized a performance in {{< var sam-full >}}'s honor. Through this performance, the whole theater family will express their love and esteem for the great Yiddish actor.<br><br>
+
+:::: {.columns}
+
+::: {.column width="65%"}
+
+::: {style="font-size: 130%;"}
+**Famous comedian {{< var sam-full >}} turns 65**
+:::
+
+Yesterday the famous comedian {{< var sam-full >}} was surprised by his friends and family with tens of telegrams wishing him a happy 65th birthday. {{< var kestin >}} is now playing in the Second Avenue Theater, and it's difficult for anyone to believe that he's really 65 years old.
+
+Yesterday, when the beloved actor came around Cafe Royal, a great number of actors and actresses surprised the "young-old" actor, who felt just like a _yongermentshik_^[young man], with well wishes in honor of his birthday.
+
+A group of his friends and colleagues organized a performance in {{< var sam-full >}}'s honor. Through this performance, the whole theater family will express their love and esteem for the great Yiddish actor.
+
 {{< var kestin >}} himself jokes about his 65 years. The younger comedians tell {{< var sam >}} that they feel older than him, but he takes it all in good fun and says, if they hadn't reminded him that he had turned 65 yesterday, he would have thought he was only in his forties.
-
-![[Link to {{< var morgen >}} article](https://www.nli.org.il/en/newspapers/tjm/1935/04/22/01/article/23)](../img/articles/1935-04-22_morgen.png){width=2in}
 
 :::
 
+::: {.column width="5%"}
+
+:::
+::: {.column width="30%"}
+
+![](../img/articles/1935-04-22_morgen.png)
+
+:::
+
+::::
 
 ## 70th birthday
 
-**A grand birthday jubilee performance for {{< var sam-full >}} in Hopkinson Theater**
-
-
-::: {layout-ncol=2}
-
-This evening in the [Hopkinson Theater](https://cinematreasures.org/theaters/69428), there will be a special performance in honor of the 70th birthday of the well-known comedian {{< var sam-full >}}. The performance will be of _Dos Yiddishe Herz_^[Sheet music for two songs from this play: ["Dos Yiddishe herz"](https://www.loc.gov/item/2016729906/) and ["Oi is dos a mame"](https://www.loc.gov/item/2016729906/)], and {{< var sam >}} will play the role of Lamech, which the famous comedian [{{< var mogu-full >}}](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm) had once played. The stars of the Hopkinson Theater will also appear in the play, including [Irving Grossman](https://www.museumoffamilyhistory.com/yt/lex/G/grossman-irving-V1.htm), Dana Goldberg^[possibly [Diana Goldberg](https://www.museumoffamilyhistory.com/yt/lex/G/goldberg-diana-V1.htm)?], and [Simon Wolf](https://www.museumoffamilyhistory.com/yt/lex/W/wolf-simon.htm).<br><br>
-After the performance, there will be a huge concert where [Aaron Lebedeff](https://www.museumoffamilyhistory.com/yt/lex/L/lebedeff-aaron.htm), [Hymie Jacobson](https://www.museumoffamilyhistory.com/yt/lex/J/jacobson-hymie.htm), [Fraydele](https://www.museumoffamilyhistory.com/yt/lex/F/fraydele-V6.htm) (the _khazante_), [Menashe Oppenheim](https://en.wikipedia.org/wiki/Menashe_Oppenheim) and the "Yiddishe mama"^[A character?]. There will also be artists from the English stage.
-
-![[Link to the {{< var forverts >}} article](https://www.nli.org.il/en/newspapers/frw/1940/03/20/01/article/74)](../img/articles/1940-03-20_forverts.png){width=5in}
-
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [1940-03-22](https://www.nli.org.il/en/newspapers/frw/1940/03/20/01/article/74)
 :::
 
 
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {style="font-size: 130%;"}
+**A grand birthday jubilee performance today for {{< var sam-full >}} in Hopkinson Theater**
+:::
+
+This evening in the [Hopkinson Theater](https://cinematreasures.org/theaters/69428), there will be a special performance in honor of the 70th birthday of the well-known comedian {{< var sam-full >}}. The performance will be of _Dos Yiddishe Herz_^[Sheet music for two songs from this play: ["Dos Yiddishe herz"](https://www.loc.gov/item/2016729906/) and ["Oi is dos a mame"](https://www.loc.gov/item/2016729906/)], and {{< var sam >}} will play the role of Lamech, which the famous comedian [{{< var mogu-full >}}](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm) had once played. The stars of the Hopkinson Theater will also appear in the play, including [Irving Grossman](https://www.museumoffamilyhistory.com/yt/lex/G/grossman-irving-V1.htm), Dana Goldberg^[possibly [Diana Goldberg](https://www.museumoffamilyhistory.com/yt/lex/G/goldberg-diana-V1.htm)?], and [Simon Wolf](https://www.museumoffamilyhistory.com/yt/lex/W/wolf-simon.htm).
+
+After the performance, there will be a huge concert where [Aaron Lebedeff](https://www.museumoffamilyhistory.com/yt/lex/L/lebedeff-aaron.htm), [Hymie Jacobson](https://www.museumoffamilyhistory.com/yt/lex/J/jacobson-hymie.htm), [Fraydele](https://www.museumoffamilyhistory.com/yt/lex/F/fraydele-V6.htm) (the _khazante_), [Menashe Oppenheim](https://en.wikipedia.org/wiki/Menashe_Oppenheim) and the "Yiddishe mama"^[A character?]. There will also be artists from the English stage.
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="45%"}
+
+![](../img/articles/1940-03-20_forverts.png){width=5in}
+
+:::
+
+::::
+
 ## 80th birthday
 
+::: {style="text-align: right;"}
+Published in _Der Tog_ on [1947-06-05](https://www.nli.org.il/en/newspapers/dertog/1947/06/05/01/article/68)
+:::
+
+::: {style="font-size: 130%;"}
 **{{< var sam-full >}}, long-time comedian in the Yiddish Theater, celebrates his 80th birthday**
+:::
 
 > A {{< var yontif >}} for the Yiddish theater-profession in America - The birthday celebrant was a close friend of the famous artist Sigmond Mogulesko. - {{< var sam-full >}} has performed for 60 years on the Yiddish stage in New York.
 
--- _By [Sholem Perlmutter](https://www.museumoffamilyhistory.com/yt/lex/P/perlmutter-sholem.htm)_
+-- By [Sholem Perlmutter](https://www.museumoffamilyhistory.com/yt/lex/P/perlmutter-sholem.htm)
 
 The Yiddish theater world is now celebrating one of the most wonderful of holidays - {{< var sam-full >}}, the "littlest pinky finger" of our Yiddish theater, is, with _mazl_, turning 80 years old.
 
-More than 70 years have already passed since {{< var goldfaden >}} laid the foundation stone of the Yiddish theater in the Romanian city of Iasi. And you could say that {{< var sam-full >}} was one of the pioneers who started out in the _kheder_ of {{< var goldfaden-full >}}. Each era of the Yiddish theater is clearly reflected in the manuscripts and in the plays, and also in the actors, of those times. 
+More than 70 years have already passed since {{< var goldfaden >}} laid the foundation stone of the Yiddish theater in the Romanian city of Iasi. And you could say that {{< var sam-full >}} was one of the pioneers who started out in the _kheyder_ of {{< var goldfaden-full >}}. Each era of the Yiddish theater is clearly reflected in the manuscripts and in the plays, and also in the actors, of those times. 
 
 It's enough to be familiar with the theater of a certain era to have a comprehensive understanding of the performing arts, the talent, and the taste of the audiences of those days. You can also understand the perspectives people held, and the ideals and ambitions that most of the great artists had. You can also clearly see the striking differences among diverse social classes and their attitudes towards the Yiddish theater.
 
@@ -147,10 +239,39 @@ Among the great stars who have adorned the stage of the American Yiddish theater
 
 For his 80th birthday jubilee, {{< var sam-full >}} has chosen to perform one of Abraham Goldfaden's first plays, [_Kaptsnzon et Hungerman_](https://web.uwm.edu/yiddish-stage/plotting-yiddish-drama/kaptsnzon-et-hungerman-oder-di-kaprizne-kale-moyd). All of his friends and admirers wish him long life and that the Jewish world will enjoy his talent for many years to come.
 
-![[Link to the _Der Tog_ article](https://www.nli.org.il/en/newspapers/dertog/1947/06/05/01/article/68)](../img/articles/1947-06-05_dertog.png) 
+![](../img/articles/1947-06-05_dertog.png) 
 
 
 
+## 81st birthday
+
+::: {style="text-align: right;"}
+Published in the "Second Section" of the {{< var forverts >}} on [1948-03-21](https://www.nli.org.il/en/newspapers/frw/1948/03/21/01/article/80.1)
+:::
+
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+::: {style="font-size: 130%;"}
+**If you can dance**
+:::
+
+-- Illustrated by Lola (Leon Israel)
+
+There are young people who can't dance, and the comedian {{< var sam-full >}} is already 81, [until 120](https://en.wikipedia.org/wiki/Live_until_120), and there will be an event honoring him in Second Avenue Theater, where he will dance and it's sure to be good. If you can dance, you can still dance even after 80 years.
+
+:::
+
+::: {.column width="30%"}
+
+
+![](../img/articles/1948-03-21_forverts.png){width=2.5in}
+
+:::
+
+::::
 
 [^history]:
     This paragraph showcasing {{< var sam >}}'s background tracks the history of the Yiddish theater. From the early plays [Horowitz _shund_ (low-brow, unsophisticated "trash") plays and actors like Adler], to the more modern plays ({{< var rumshinsky >}} operettas and actors like Lebedeff).

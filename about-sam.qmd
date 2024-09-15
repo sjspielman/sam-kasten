@@ -127,6 +127,9 @@ Click on any picture below to scroll through them as a photo gallery.
 ![Cartoon by [Zuni Maud](https://en.wikipedia.org/wiki/Zuni_Maud) of the cast of _The Doctor's Wife_ by {{< var kobrin-full >}}, with Sam second from the left.](img/about-sam/doctors-wife.jpeg){group="sam"}
 
 
+![Cartoon by Leon Israel ("Lola") of Sam for his 81st birthday. Lola was a cartoonist for the {{< var forverts >}} and dear friend of Sam's and cared for him in his old age.](img/about-sam/sam-lola.png){group="sam"}
+
+
 
 :::
 
