@@ -74,8 +74,6 @@ Click on any picture below to scroll through them as a photo gallery.
 
 ![](img/sam2.jpeg){group="sam"}
 
-![](img/sam5.jpeg){group="sam"}
-
 
 ![](img/sam6.jpg){group="sam"}
 
@@ -105,14 +103,16 @@ Click on any picture below to scroll through them as a photo gallery.
 ![Sam (far right) performing in {{< var violin >}} [(Chapter 43 in memoirs)]({{< var memoirs >}}/chapters/43_1947-02-13.html)](img/sam-broken-violin-2.jpg){group="sam"}
 
 
-![Sam performing with {{< var molly-full >}} in _Hello Molly_ in the 1928/29 season, Second Avenue Theater.](img/1928-sam-molly.jpg){group="sam"}
+![Sam performing with {{< var molly-full >}} in _Hello, Molly_ during the 1928/29 season, Second Avenue Theater. The Yiddish caption reads: "Father and son ({{< var molly-full >}} and {{< var sam-full >}}) when they meet in a Roumanian cabaret."](img/roumanian.png){group="sam"}
 
 
-![Sam performing with {{< var molly-full >}} in the 1928/29 season, Second Avenue Theater, play unknown. According to the caption, in this scene she asks (in English, transliterated into Yiddish): "Hello Papa, how is your rheumatism?"](img/rheumatism.png){group="sam"}
 
-![Sam performing with {{< var molly-full >}} (left) and [Betty Simonoff](https://www.museumoffamilyhistory.com/yt/lex/S/simonoff-betty.htm) (middle) in the 1928/29 season, Second Avenue Theater, play unknown. According to the caption, Sam and Molly play father and son, and in this scene they confess their love for the Russian princess (played by Betty) as she sings Romanian songs.](img/sam-molly-betty.png){group="sam"}
+![Sam performing with {{< var molly-full >}} (left) and [Betty Simonoff](https://www.museumoffamilyhistory.com/yt/lex/S/simonoff-betty.htm) (middle) in _Hello, Molly_ during the 1928/29 season, Second Avenue Theater. According to the caption, Sam and Molly play father and son, and in this scene they confess their love for the Russian princess (played by Betty) as she sings Romanian songs.](img/sam-molly-betty.png){group="sam"}
 
-![Sam performing with {{< var molly-full >}} (left) and [Betty Simonoff](https://www.museumoffamilyhistory.com/yt/lex/S/simonoff-betty.htm) (middle) in _The Circus Girl_ during the 1928/29 season, Second Avenue Theater.](img/circus-girl.jpeg){group="sam"}
+![Sam performing with {{< var molly-full >}} in _Hello, Molly_ during the 1928/29 season, Second Avenue Theater. The Yiddish caption reads (it is actually English, but written transliterated into Yiddish): "Hello Papa, how is your rheumatism?"](img/rheumatism.png){group="sam"}
+
+
+![Sam performing with {{< var molly-full >}} in _The Circus Girl_ during the 1928/29 season, Second Avenue Theater.](img/circus-girl.jpeg){group="sam"}
 
 
 ![Sam performing with [Annie Thomashefsky](https://www.museumoffamilyhistory.com/yt/lex/T/thomashefsky-annie.htm) (one of {{< var boris >}}'s sisters) in _The Happy Village_ in 1937, Second Avenue Theater.](img/happy-village.jpeg){group="sam"}
