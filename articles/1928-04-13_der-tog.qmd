@@ -1,0 +1,61 @@
+---
+title: _Ikh - un dos publikum_
+---
+
+-- By {{< var sam-full >}}
+
+> This article was published in _Der Tog_ on 1928-04-13 as part of a series of short opeds published weekly, written by actors and actresses, entitled _Ikh - un dos publikum_ ("Me - and the audience"), as described below the article.
+
+It's very easy to write about "me and the audience." If an actor has an audience, he can talk and talk. It's bad if an actor has no audience, and it's just "me without the audience." Speaking is all well and good, but only if people want to hear you speak - not when they're only interested in listening to someone else.
+
+And how many actors today find themselves in such a circumstance! These days there are a lot of actors - good actors - who have no audience at all. How could they have, if the audience doesn't even see them? If they have no role to play in? Nowadays, there is one actor who is the ultimate authority. Whoever has the final say, not only does he hold all the cards - the others hold nothing at all.
+
+For example, I performed in _Dem Zayde's Gelibte_^[_The grandfather's beloved_], and the public didn't know at all that I was in the play at all - why? Because I didn't have any real role. I was told to speak, so I spoke. I was told to jump, so I jumped. To dance, so I danced. To sing, so I sang. But that wasn't really a _role_. Not for me, and not for anyone else. Yes, I was in the play, but at the same time I wasn't. So how can I have an audience?
+
+And here's a second example, _Dem Rebin's Zondele_^[_The Rabbi's little son_], which has been playing for 14 weeks already. In this play, I have a _shtikele_ role that I can make something out of, and the audiences know, _baruch hashem_, that I am up on stage.
+
+Back in the day, the audiences had their _lieblings_ that they would specifically come to see. When the audiences found a few beloved names in the announcements, they came to the theater. Today, it's not about the actors at all, but only about one person - the star. And the star, who to add insult to injury is of course also the director, doesn't ask much of the other actors or even from the play itself. It's enough as long as he shines and sparkles.
+
+He doesn't even care about the play itself. I'm speaking about specifically about operettas. You also need to have **a play.** And who even takes the play into account these days..? Theater is a business. The playwright a businessman out to make money. The star wants the big wages. And the play suppliers too want to collect their royalties from down payments, you see. When someone introduces a play today, he doesn't care what people do with it. He doesn't even care about the play when it's performed, as long as he gets the royalties.
+
+It's the same case as well with regular plays and playwrights, not only with operettas, because the star cuts out parts of the play and changes up the roles, and takes great pleasure in it. The playwrights only want royalties, to do whatever their heart desires with. Long gone are the days of [Kobrin](https://en.wikipedia.org/wiki/Leon_Kobrin), [Dymov](https://congressforjewishculture.org/people/5533/Dymov-Osip-Ossip-Dimow-Dimov-February-16-1878-February-3-1959), and [Libin](https://en.wikipedia.org/wiki/Zalmon_Libin), who deemed that their plays should be performed exactly as they were written, faithful to each word in each role. [Jacob Gordin](https://en.wikipedia.org/wiki/Jacob_Gordin) wouldn't put up with any of this - he'd just hit you with a stick for going off script!
+
+Plays are the most important thing in the theater. The honest truth is that there are no plays anymore, and nobody is trying to find one either. People just perform whatever falls into their lap, as long as the star has a role and the cash register is full.
+
+The audiences want plays first of all, and actors second. An actor seeks out a role. Only in a suitable role can he really show himself off. _Dem Zayde's Gelibte_ was a failure because it was a bad play. _Dem Rebin's Zondele_ was a success because it was a better play. People will say that I'm just old, but I say openly that in the Yiddish theater is in decline. Today's plays just aren't up to snuff, because people aren't looking to put on play with substance of content, character, or plot.
+
+Above anything else, it needs to have a Yiddish (Jewish) subject matter. A Yiddish operetta, a Yiddish melodrama, a Yiddish drama. Our managers have long written that they if they put on "shows"^["שאָוס"] ala Broadway, then the audiences will change their minds and flock to Broadway instead. As long as [Maurice Schwartz](https://en.wikipedia.org/wiki/Maurice_Schwartz) put on Jewish/Yiddish dramas, he had an audience. When he started putting on _goyishe_ plays instead, audiences crumbled. And after ten years of work, he was left without an audience and without a platform.
+
+The main thing is: Yiddish theater means Yiddish plays. If you put on plays with Yiddish themes, audiences will come. They will even return from Broadway. The best proof of this is, indeed, _Dem Rebin's Zondele_. People came to the play, and there was no crisis - business went well.
+
+I know all too well that the times when I performed with [Feinman](https://www.museumoffamilyhistory.com/yt/lex/F/feinman-sigmund.htm), [{{< var mogu >}}](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm), are [Adler](https://www.museumoffamilyhistory.com/yt/lex/A/adler-jacob-p.htm) are long gone. And I had roles which were ____^[too blurry to translate]. I know that I have to get used to coming to rehearsals, not as though its a big important job, but to get instructions on where to stand, how to walk, how to dance and jump. But I always maintain that an actor must have a role with real meat on its bones, and if you want to have an audience, you have to put on a Yiddish (Jewish) play with Jewish themes.
+
+Nevermind the actor who knows himself and has respect for himself - he will not try to pull off the impossible. Indeed, I am now well into my 50s. I will of course not move heaven and earth to play the role of a young boy. When I did play such roles, I weighed 95 lbs and wasn't even 30 years old yet. An actor must behave with dignity and not insist, after performing for 40 years on the stage, on playing the roles he played when had only been acting for 10 years. If he remembers this and gets a decent role, and has even a scrap of talent, then God will help him - and he will have an audience.
+
+![](../img/articles/1928-04-13_der-tog.png)
+
+
+
+### About _Ikh - un dos publikum_ {#sec-about}
+
+On [1927-12-16](https://www.nli.org.il/en/newspapers/dertog/1927/12/16/01/article/24/), _Der Tog_ published this advertisement for the upcoming series "_Ikh - un dos publikum_":
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+> Starting from next Friday, _Der Tog_ will begin publishing a series of opeds on the theater page from famous actors and actresses on the Yiddish stage about how they feel about and their attitudes toward the audience. The opeds will be written by the actors themselves, and readers will surely find interesting material in their articles. You will hear what the actors think about the audience who applauds, cries, and laughs in the Yiddish theater.
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="45%"}
+
+![](../img/articles/1927-12-16_der-tog_advert.png)
+
+:::
+
+::::
