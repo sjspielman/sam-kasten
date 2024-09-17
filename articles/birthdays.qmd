@@ -3,7 +3,7 @@ title: Birthday celebrations
 ---
 
 Sam's older birthdays were commemorated by the Yiddish theater community.
-It's worth noting that Sam was most likely born on April 21st, 1869. If this is indeed his birthday, then none of the birthday celebrations actually occurred during the correct year... but such were birthdays in those days!
+It's worth noting that Sam was most likely born on April 21st, 1869. If this is indeed his birthday, then all but one of the birthday celebrations took place in the wrong year... but such were birthdays in those days!
 
 Translations of associated articles, and images of the articles themselves, are below.
 
@@ -200,6 +200,56 @@ After the performance, there will be a huge concert where [Aaron Lebedeff](https
 :::
 
 ::::
+
+
+
+## 71st birthday
+
+::: {style="text-align: right;"}
+Published in the _Forverts_ on [1940-03-08](https://www.nli.org.il/en/newspapers/frw/1940/03/08/01/article/30/)
+:::
+
+_Note: This birthday was the only one celebrated in the correct year._
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+::: {style="font-size: 130%;"}
+**Theater profession gathers to celebrate {{< var sam-full >}}'s 71st birthday**
+:::
+
+
+The Yiddish theater profession will gather to celebrate the 71st birthday of the well-known comedian {{< var sam-full >}}, who has now been performing Yiddish theater for a full half-century. 
+
+A great event has been arranged on Wednesday March 20th at the Hopkinson Theater, where {{< var kestin >}} will appear in {{< var mogu >}}'s hugely success role of "Lemekh" in _Dos Yiddishe Harz_. In the performance, he will be joined by all the actors from the Hopkinson Theater as well as another famous mystery actor who has performed together with {{< var kestin >}} in diverse array of other plays.
+
+After the performance there will be a magnificent concert at which the great stars of the Yiddish theater will perform.
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="45%"}
+
+![](../img/articles/1940-03-08_forverts.png){width=5in}
+
+:::
+::::
+
+**The comedian {{< var sam-full >}} writes a serious note**^[The rest of the article is a letter written by {{< var sam >}}]
+
+*To my beloved public!*
+
+*I am turning 71 years old. I've been performing Yiddish theater for 50 years already, known to the public as a comedian who always makes you laugh. And suddenly some kind of strange nostalgia sweeps over me for those who have passed and left me behind like an only child, all alone among the new generation. I long for my "Rabbi," the incomparable {{< var mogu-full >}}. I long for my directors Jacob P. Adler, David Kessler, Boris Thomashevsky, Leon Blank. They will not be able to come to my birthday on Wednesday March 20th in Hopkinson Theater, where I will appear in {{< var mogu >}}'s great success as "Lemekh" in* Dos Yiddishe Harz. *I don't want any flowers, I don't want any banquets, I just want my public to come congratulate me on my birthday.*
+
+*Yours,*
+
+*{{< var sam-full >}}*
+
+
 
 ## 80th birthday
 
