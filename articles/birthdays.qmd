@@ -20,7 +20,7 @@ Published in the {{< var forverts >}} on [1920-04-18](https://www.nli.org.il/en/
 
 :::
 
--- By [Berl Botvinik](https://congressforjewishculture.org/people/6749/)
+By [Berl Botvinik](https://congressforjewishculture.org/people/6749/)
 
 
 :::: {.columns}
@@ -213,7 +213,7 @@ Published in _Der Tog_ on [1947-06-05](https://www.nli.org.il/en/newspapers/dert
 
 > A {{< var yontif >}} for the Yiddish theater-profession in America - The birthday celebrant was a close friend of the famous artist Sigmond Mogulesko. - {{< var sam-full >}} has performed for 60 years on the Yiddish stage in New York.
 
--- By [Sholem Perlmutter](https://www.museumoffamilyhistory.com/yt/lex/P/perlmutter-sholem.htm)
+By [Sholem Perlmutter](https://www.museumoffamilyhistory.com/yt/lex/P/perlmutter-sholem.htm)
 
 The Yiddish theater world is now celebrating one of the most wonderful of holidays - {{< var sam-full >}}, the "littlest pinky finger" of our Yiddish theater, is, with _mazl_, turning 80 years old.
 
@@ -258,7 +258,7 @@ Published in the "Second Section" of the {{< var forverts >}} on [1948-03-21](ht
 **If you can dance**
 :::
 
--- Illustrated by Lola (Leon Israel)
+Illustrated by Lola (Leon Israel)
 
 There are young people who can't dance, and the comedian {{< var sam-full >}} is already 81, [until 120](https://en.wikipedia.org/wiki/Live_until_120), and there will be an event honoring him in Second Avenue Theater, where he will dance and it's sure to be good. If you can dance, you can still dance even after 80 years.
 

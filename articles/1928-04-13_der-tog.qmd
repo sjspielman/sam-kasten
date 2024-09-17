@@ -1,10 +1,8 @@
----
-title: _Ikh - un dos publikum_
----
+# Ikh -- un dos publikum
 
--- By {{< var sam-full >}}
+By {{< var sam-full >}}
 
-> This article was published in _Der Tog_ on 1928-04-13 as part of a series of short opeds published weekly, written by actors and actresses, entitled _Ikh - un dos publikum_ ("Me - and the audience"), as described below the article.
+> This article was published in _Der Tog_ on 1928-04-13 as part of a series of short op-eds published weekly, written by actors and actresses, entitled _Ikh -- un dos publikum_ ("Me -- and the audience"), as described below the article.
 
 It's very easy to write about "me and the audience." If an actor has an audience, he can talk and talk. It's bad if an actor has no audience, and it's just "me without the audience." Speaking is all well and good, but only if people want to hear you speak - not when they're only interested in listening to someone else.
 
@@ -32,11 +30,13 @@ I know all too well that the times when I performed with [Feinman](https://www.m
 
 Nevermind the actor who knows himself and has respect for himself - he will not try to pull off the impossible. Indeed, I am now well into my 50s. I will of course not move heaven and earth to play the role of a young boy. When I did play such roles, I weighed 95 lbs and wasn't even 30 years old yet. An actor must behave with dignity and not insist, after performing for 40 years on the stage, on playing the roles he played when had only been acting for 10 years. If he remembers this and gets a decent role, and has even a scrap of talent, then God will help him - and he will have an audience.
 
+# Article image 
+
 ![](../img/articles/1928-04-13_der-tog.png)
 
 
 
-### About _Ikh - un dos publikum_ {#sec-about}
+# About "Ikh -- un dos publikum"
 
 On [1927-12-16](https://www.nli.org.il/en/newspapers/dertog/1927/12/16/01/article/24/), _Der Tog_ published this advertisement for the upcoming series "_Ikh - un dos publikum_":
 
@@ -44,7 +44,7 @@ On [1927-12-16](https://www.nli.org.il/en/newspapers/dertog/1927/12/16/01/articl
 
 ::: {.column width="50%"}
 
-> Starting from next Friday, _Der Tog_ will begin publishing a series of opeds on the theater page from famous actors and actresses on the Yiddish stage about how they feel about and their attitudes toward the audience. The opeds will be written by the actors themselves, and readers will surely find interesting material in their articles. You will hear what the actors think about the audience who applauds, cries, and laughs in the Yiddish theater.
+> Starting from next Friday, _Der Tog_ will begin publishing a series of op-eds on the theater page from famous actors and actresses on the Yiddish stage about how they feel about and their attitudes toward the audience. The op-eds will be written by the actors themselves, and readers will surely find interesting material in their articles. You will hear what the actors think about the audience who applauds, cries, and laughs in the Yiddish theater.
 
 :::
 
