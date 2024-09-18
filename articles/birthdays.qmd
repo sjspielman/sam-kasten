@@ -171,8 +171,12 @@ A group of his friends and colleagues organized a performance in {{< var sam-ful
 ## 70th birthday
 
 ::: {style="text-align: right;"}
-Published in the {{< var forverts >}} on [1940-03-22](https://www.nli.org.il/en/newspapers/frw/1940/03/20/01/article/74)
+Published in the {{< var forverts >}} on [1940-03-20](https://www.nli.org.il/en/newspapers/frw/1940/03/20/01/article/74)
 :::
+
+> Note that this is actually Sam's 71st birthday.
+> He indeed knows this because two weeks earlier, an article was published announcing this very same birthday party as his 71st birthday.
+> That article is translated in the "71st birthday" section below.
 
 
 :::: {.columns}
@@ -208,8 +212,6 @@ After the performance, there will be a huge concert where [Aaron Lebedeff](https
 ::: {style="text-align: right;"}
 Published in the _Forverts_ on [1940-03-08](https://www.nli.org.il/en/newspapers/frw/1940/03/08/01/article/30/)
 :::
-
-_Note: This birthday was the only one celebrated in the correct year._
 
 
 :::: {.columns}
