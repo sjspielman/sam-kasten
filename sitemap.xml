@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sjspielman.github.io/sam-kasten/index.html</loc>
-    <lastmod>2024-09-18T01:18:08.191Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sjspielman.github.io/sam-kasten/articles/birthdays.html</loc>
-    <lastmod>2024-09-18T01:18:07.843Z</lastmod>
-  </url>
-  <url>
     <loc>https://sjspielman.github.io/sam-kasten/about-sam.html</loc>
-    <lastmod>2024-09-18T01:18:07.843Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sjspielman.github.io/sam-kasten/memoirs.html</loc>
-    <lastmod>2024-09-18T01:18:08.191Z</lastmod>
+    <lastmod>2024-09-19T20:45:44.513Z</lastmod>
   </url>
   <url>
     <loc>https://sjspielman.github.io/sam-kasten/articles/1928-04-13_der-tog.html</loc>
-    <lastmod>2024-09-18T01:18:07.843Z</lastmod>
+    <lastmod>2024-09-19T20:45:44.513Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sjspielman.github.io/sam-kasten/articles/1943-04-01_morgen.html</loc>
+    <lastmod>2024-09-19T20:45:44.513Z</lastmod>
   </url>
   <url>
     <loc>https://sjspielman.github.io/sam-kasten/articles/miscellany.html</loc>
-    <lastmod>2024-09-18T01:18:07.843Z</lastmod>
+    <lastmod>2024-09-19T20:45:44.513Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sjspielman.github.io/sam-kasten/articles/birthdays.html</loc>
+    <lastmod>2024-09-19T20:45:44.513Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sjspielman.github.io/sam-kasten/index.html</loc>
+    <lastmod>2024-09-19T20:45:44.858Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sjspielman.github.io/sam-kasten/memoirs.html</loc>
+    <lastmod>2024-09-19T20:45:44.858Z</lastmod>
   </url>
 </urlset>
