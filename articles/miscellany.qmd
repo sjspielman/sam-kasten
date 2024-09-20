@@ -36,7 +36,7 @@ This will be on December 7th, indeed in Philadelphia.
 
 
 
-## 1944-11-05
+## 1945-04-01
 
 :::: {.columns}
 
@@ -47,7 +47,7 @@ This will be on December 7th, indeed in Philadelphia.
 
 > It's story, origins, and role in today's world
 
-A lesson from Dr. Gibatsenerl^[This is definitely joke pseudonym name - "give a tenner" (like a ten dollar bill); דר. גיבאצענערל]
+A lesson from Dr. Gibatsenerl^[This is definitely joke pseudonym name  - "give a tenner" (like a ten dollar bill); דר. גיבאצענערל]
 
 ---
 
@@ -79,7 +79,7 @@ In short, all that's left of the sandwich is its name, a tombstone of the great 
 
 ::: {.column width="35%"}
 
-![[Link to article in {{< var morgen >}}.](https://www.nli.org.il/en/newspapers/tjm/1944/11/05/01/)](../img/articles/1944-11-05_morgen.png)
+![[Link to article in {{< var morgen >}}.](https://www.nli.org.il/en/newspapers/tjm/1945/04/01/01/article/78/)](../img/articles/1945-04-01_morgen.png)
 
 
             
