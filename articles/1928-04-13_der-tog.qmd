@@ -1,8 +1,8 @@
-# Ikh -- un dos publikum
+# Ikh un dos publikum
 
 By {{< var sam-full >}}
 
-> This article was published in _Der Tog_ on 1928-04-13 as part of a series of short op-eds published weekly, written by actors and actresses, entitled _Ikh -- un dos publikum_ ("Me -- and the audience"), as described below the article.
+> This article was published in _Der Tog_ on 1928-04-13 as part of a series of short op-eds published weekly, written by actors and actresses, entitled _Ikh un dos publikum_ ("Me and the audience"), as described below the article.
 
 It's very easy to write about "me and the audience." If an actor has an audience, he can talk and talk. It's bad if an actor has no audience, and it's just "me without the audience." Speaking is all well and good, but only if people want to hear you speak - not when they're only interested in listening to someone else.
 
