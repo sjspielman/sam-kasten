@@ -2,16 +2,16 @@
 title: Amusing miscellany 
 ---
 
-This page contains translations of often amusing, or at least interesting, small items published in the press written about {{< var sam >}}. 
+This page contains translations of often amusing, or at least interesting, small items published in the press written about {{< var sam >}}, or that reference him in some way. 
 
 
 
-### 1920-11-19
+## 1920-11-19
 
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="60%"}
 
 _Sha_, {{< var sam-full >}} speaks out^["let's himself be heard"]. The lively comedian's New York _patriotn_^[his group of ardent fans/followers] are despondent. {{< var sam-full >}} left to perform in the Arch Street Theater in Philadelphia^[See a [timeline of {{< var sam >}}'s whereabouts](https://sjspielman.github.io/sam-kasten-memoirs/appendices/timeline.html)], and without him their joy has all dried up^[I was unable to translate this, but I believe the meaning is preserved; אויס, ניטאָ איהם, וויא אין וואסער אריין].
 
@@ -21,15 +21,68 @@ This will be on December 7th, indeed in Philadelphia.
 
 :::
 
-::: {.column width="10%"}
+::: {.column width="5%"}
 
  
 :::
 
-::: {.column width="40%"}
+::: {.column width="35%"}
 
-![[Link to {{< var forverts >}}.](https://www.nli.org.il/en/newspapers/frw/1920/11/19/01/article/37/)](../img/articles/1920-11-19_forverts.png)
+![[Link to article in the {{< var forverts >}} .](https://www.nli.org.il/en/newspapers/frw/1920/11/19/01/article/37/)](../img/articles/1920-11-19_forverts.png)
                                   
+:::
+
+::::
+
+
+
+## 1944-11-05
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+
+### What is "_korech_"^[_korech_ refers to the so-called "Hillel sandwich" eaten at the Passover seder: maror (bitter herb, often horseradish) between two pieces of matzah]? {.unnumbered}
+
+> It's story, origins, and role in today's world
+
+A lesson from Dr. Gibatsenerl^[This is definitely joke pseudonym name - "give a tenner" (like a ten dollar bill); דר. גיבאצענערל]
+
+---
+
+Ladies and gentlemen!
+
+It has been established that the invention of the ["Hillel sandwich"](https://www.chabad.org/holidays/passover/pesach_cdo/aid/117121/jewish/10-Korech-The-Hillel-Sandwich.htm) - the same Hillel of [_"Beis Hillel"_](https://en.wikipedia.org/wiki/Houses_of_Hillel_and_Shammai), the [_tane_](https://en.wikipedia.org/wiki/Tannaim)^[rabbinic sages who contributed to the Mishnah] Hillel with a deep soul and exceptional love for his fellow man. Hillel invented the sandwich as a gift for all mankind...
+
+Hillel held that man can [learn the whole Torah on one foot](https://www.chabad.org/library/article_cdo/aid/689306/jewish/On-One-Foot.htm). Well, the Torah sure, but why stop there - why shouldn't we also **eat** on one foot? _Nu_, so he invented the "_korech_," which Americans call a "sandwich."
+
+In happier times, you knew what to expect from a sandwich: two pieces of bread and a lot of meat, or cheese, or sardines...
+
+Or there's the "double decker" and the "{{< var sam-full >}} stage-sandwich"^[In this joke article, we learn that {{< var sam >}} apparently had a well-known very large sandwich named for him!], three stories high...
+
+But now during war time^[This article was printed during World War II], the sandwich has lost its "essence," its "innards", its contents. All that remains is just two pieces of bread, _nebech_^["What a pity"]....
+
+
+^[These two sentences are full of idioms, and translations may not be fully accurate.]There are restaurants where people don't cram your sandwich with Ibsen brand's _"gor"_....but with _"gornisht"_^[absolutely nothing]... There are restaurants that put the "great check"^[טשעק הגדול] in between two pieces of "toast"...
+
+All in all, these days there are only two kinds of sandwiches - a meat sandwich without a trace of even a sardine, and a cheese sandwich with but a sliver of tomato instead of cheese.
+
+In short, all that's left of the sandwich is its name, a tombstone of the great invention.
+
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="35%"}
+
+![[Link to article in {{< var morgen >}}.](https://www.nli.org.il/en/newspapers/tjm/1944/11/05/01/)](../img/articles/1944-11-05_morgen.png)
+
+
+            
 :::
 
 ::::
