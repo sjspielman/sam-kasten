@@ -3,11 +3,10 @@ title: "About"
 
 ---
 
-Welcome to the Sam Kasten (written in Yiddish as "Kestin") Legacy Project, developed and maintained by [Stephanie J. Spielman](https://sjspielman.github.io).
+Welcome to the Sam Kasten (written in Yiddish as "Kestin"; סעם קעסטין) Legacy Project, developed and maintained by [Stephanie J. Spielman](https://sjspielman.github.io).
 
-Sam Kasten (z''l, 1869-1953), one of my paternal great-great grandfathers (more specifically, my father's mother's mother's father), was a beloved comedian/song-and-dance man in the American Yiddish theater in the early 1900s. 
+Sam Kasten (1869-1953), one of my paternal great-great grandfathers^[more specifically, my paternal grandmother's maternal grandfather], was a beloved comedian/song-and-dance man in the American Yiddish theater in the early 1900s. 
 
 This website is an _in-progress_ landing page for materials reviving his legacy.
 
-**Looking for his memoirs? They're [here](https://sjspielman.github.io/sam-kasten-memoirs)!**
-
+Want to connect? Reach me at `stephanie.spielman <at> gmail <dot> com`!
