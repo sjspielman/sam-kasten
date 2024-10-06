@@ -6,13 +6,13 @@ title: About Sam Kestin
 
 Start by read his [entry in the {{< var leks >}}](https://www.museumoffamilyhistory.com/yt/lex/K/kasten-sam.htm)! Note that a good amount of the information in his entry was obtained from his [memoirs](./memoirs.qmd).
 
-## Entry in the [_Yiddish World Almanac_ (1926)](https://archive.org/details/nybc205590/page/n349/mode/2up?view=theater)
+## Entry in the [_Yiddish (Jewish) World Almanac_ (1926)](https://archive.org/details/nybc205590/page/n349/mode/2up?view=theater)
 
 > Sam is today both the youngest and oldest Yiddish comedian on the stage[^oldyoung]. In his time, Mogulesko was the comedian among comedians, and {{< var kestin >}} is in his time the comedian among comedians. {{< var kestin >}} is a true Yiddish-American comedian. He was born in a European shtetl, but he was brought up in the true American-Yiddish atmosphere.
 >
 > When {{< var kestin >}} is on the stage, he is a _yidele_^[Affectionate term for a fellow Jew; literally "little Jew"], a good Jew, a dear Jew with small stature, a _yidele_ who leaps around the stage. He is nimble and animated, and you have no choice but to love him regardless of whether he is the schemer in the play, or the lover in the play. There are many comedians on the Yiddish stage who want to be like {{< var kestin >}}.
 >
-> There are comedians who make you laugh by smearing themselves with soot, or by "doing without dirty pants"^[an idiom?], or by sticking out their tongue, or by prancing around the stage in their drawers. There are comedians who make you laugh by behaving like _schlimazls_, who gets hit or whose wife gives him a blue eye.
+> There are comedians who make you laugh by smearing themselves with soot, or by dressing up dirty pants, or by sticking out their tongues, or by prancing around the stage in their drawers. There are comedians who make you laugh by behaving like _schlimazls_ who get hit or whose wife gives them a blue eye.
 >
 > {{< var kestin >}} is not one of those comedians. {{< var kestin >}} makes you laugh simply because he is on the stage^[In other words, {{< var kestin >}} does not need to resort to gimmicks to get a laugh]. When he is up on the stage, you feel good with joy in your heart, and you don't want him to ever leave the stage. He is so dear, so "cute"^[’קיוט’].
 >
