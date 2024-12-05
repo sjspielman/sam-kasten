@@ -30,9 +30,9 @@ I know all too well that the times when I performed with [Feinman](https://www.m
 
 Nevermind the actor who knows himself and has respect for himself - he will not try to pull off the impossible. Indeed, I am now well into my 50s. I will of course not move heaven and earth to play the role of a young boy. When I did play such roles, I weighed 95 lbs and wasn't even 30 years old yet. An actor must behave with dignity and not insist, after performing for 40 years on the stage, on playing the roles he played when had only been acting for 10 years. If he remembers this and gets a decent role, and has even a scrap of talent, then God will help him - and he will have an audience.
 
-# Article image 
+# Article image
 
-![](../img/articles/1928-04-13_der-tog.png)
+![](img/1928-04-13_der-tog.png)
 
 
 
@@ -54,7 +54,7 @@ On [1927-12-16](https://www.nli.org.il/en/newspapers/dertog/1927/12/16/01/articl
 
 ::: {.column width="45%"}
 
-![](../img/articles/1927-12-16_der-tog_advert.png)
+![](img/1927-12-16_der-tog_advert.png)
 
 :::
 

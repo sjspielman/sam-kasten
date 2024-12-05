@@ -1,5 +1,5 @@
 ---
-title: Birthday celebrations 
+title: Birthday celebrations
 ---
 
 Sam's older birthdays were commemorated by the Yiddish theater community.
@@ -51,7 +51,7 @@ And that's the main thing about {{< var kestin >}}. He isn't only a dancer and a
 
 ::: {.column width="35%"}
 
-![](../img/articles/1920-04-18_forverts.png)
+![](img/1920-04-18_forverts.png)
 
 :::
 ::::
@@ -109,7 +109,7 @@ A big head, white as milk. A face, clear and youthful. Eyes, impish and childlik
 
 You know, of course, that we're referring to no other than our dear {{< var sam-full >}}. He appeared in _Ben Hador_, in {{< var yiziat >}}, and in [{{< var goldfaden >}}](https://www.museumoffamilyhistory.com/yt/lex/G/goldfaden-abraham.htm)'s operettas. With the same passion as ever, he now sings and dances in [{{< var rumshinsky >}}](https://www.museumoffamilyhistory.com/yt/lex/R/rumshinsky-joseph.htm)'s operettas. He has performed with [Adler](https://www.museumoffamilyhistory.com/yt/lex/A/adler-jacob-p.htm), [Kessler](https://en.wikipedia.org/wiki/David_Kessler_(actor)), and [{{< var mogu >}}](https://www.museumoffamilyhistory.com/yt/lex/M/mogulesko-sigmund.htm). He has also performed with [Aaron Lebedeff](https://www.museumoffamilyhistory.com/yt/lex/L/lebedeff-aaron.htm), [Leon Blank](https://www.museumoffamilyhistory.com/yt/lex/B/blank-leon.htm), [Ludwiz Satz](https://www.museumoffamilyhistory.com/yt/lex/S/satz-ludwig.htm), and [Molly Picon](https://www.museumoffamilyhistory.com/yt/lex/P/picon-molly.htm).[^history]
 
-Those who saw him perform some 30 years ago will swear to you on their life that he is still the same {{< var kestin >}}, with the same youthful energy as before. 
+Those who saw him perform some 30 years ago will swear to you on their life that he is still the same {{< var kestin >}}, with the same youthful energy as before.
 
 {{< var kestin >}} has performed on the Yiddish stage for 44 years. He was 16 years old when he arrived in America, and he worked in his mother's "shirt factory" before he become an actor. This was in Philadelphia. The first performance he appeared in was in the [Dramatic Hall](https://www.museumoffamilyhistory.com/jqp-wheatley.htm), which was located at 5th and Gaskill Sts. Now that theater is a Hungarian shul. He began his career in theater acting with [Boris Thomashevsky](https://www.museumoffamilyhistory.com/yt/lex/T/thomashefsky-boris.htm). His first role was as a young boy who sang "_Heyse bobkelakh_"^[hot buns] in {{< var goldfaden >}}'s {{< var sorceress >}}^[_The Sorceress_].
 
@@ -128,7 +128,7 @@ The party was arranged by the {{< var hau >}}. Between the acts, the following w
 After the performance there will be an intimate banquet for {{< var kestin >}} with a small number of friends. At the banquet, they'll live it up as is befitting of a 60th birthday celebration.
 
 
-![](../img/articles/1930-04-04_forverts.png)
+![](img/1930-04-04_forverts.png)
 
 
 ## 65th birthday
@@ -162,7 +162,7 @@ A group of his friends and colleagues organized a performance in {{< var sam-ful
 :::
 ::: {.column width="30%"}
 
-![](../img/articles/1935-04-22_morgen.png)
+![](img/1935-04-22_morgen.png)
 
 :::
 
@@ -199,7 +199,7 @@ After the performance, there will be a huge concert that [Aaron Lebedeff](https:
 
 ::: {.column width="45%"}
 
-![](../img/articles/1940-03-20_forverts.png){width=5in}
+![](img/1940-03-20_forverts.png){width=5in}
 
 :::
 
@@ -223,7 +223,7 @@ Published in the _Forverts_ on [1940-03-08](https://www.nli.org.il/en/newspapers
 :::
 
 
-The Yiddish theater profession will gather to celebrate the 71st birthday of the well-known comedian {{< var sam-full >}}, who has now been performing Yiddish theater for a full half-century. 
+The Yiddish theater profession will gather to celebrate the 71st birthday of the well-known comedian {{< var sam-full >}}, who has now been performing Yiddish theater for a full half-century.
 
 A great event has been arranged on Wednesday March 20th at the Hopkinson Theater, where {{< var kestin >}} will appear in {{< var mogu >}}'s hugely success role of "Lemekh" in _Dos Yiddishe Harz_. In the performance, he will be joined by all the actors from the Hopkinson Theater as well as another famous mystery actor who has performed together with {{< var kestin >}} in diverse array of other plays.
 
@@ -236,7 +236,7 @@ After the performance there will be a magnificent concert at which the great sta
 
 ::: {.column width="45%"}
 
-![](../img/articles/1940-03-08_forverts.png){width=5in}
+![](img/1940-03-08_forverts.png){width=5in}
 
 :::
 ::::
@@ -269,7 +269,7 @@ By [Sholem Perlmutter](https://www.museumoffamilyhistory.com/yt/lex/P/perlmutter
 
 The Yiddish theater world is now celebrating one of the most wonderful of holidays - {{< var sam-full >}}, the "littlest pinky finger" of our Yiddish theater, is, with _mazl_, turning 80 years old.
 
-More than 70 years have already passed since {{< var goldfaden >}} laid the foundation stone of the Yiddish theater in the Romanian city of Iasi. And you could say that {{< var sam-full >}} was one of the pioneers who started out in the _kheyder_ of {{< var goldfaden-full >}}. Each era of the Yiddish theater is clearly reflected in the manuscripts and in the plays, and also in the actors, of those times. 
+More than 70 years have already passed since {{< var goldfaden >}} laid the foundation stone of the Yiddish theater in the Romanian city of Iasi. And you could say that {{< var sam-full >}} was one of the pioneers who started out in the _kheyder_ of {{< var goldfaden-full >}}. Each era of the Yiddish theater is clearly reflected in the manuscripts and in the plays, and also in the actors, of those times.
 
 It's enough to be familiar with the theater of a certain era to have a comprehensive understanding of the performing arts, the talent, and the taste of the audiences of those days. You can also understand the perspectives people held, and the ideals and ambitions that most of the great artists had. You can also clearly see the striking differences among diverse social classes and their attitudes towards the Yiddish theater.
 
@@ -291,7 +291,7 @@ Among the great stars who have adorned the stage of the American Yiddish theater
 
 For his 80th birthday jubilee, {{< var sam-full >}} has chosen to perform one of Abraham Goldfaden's first plays, [_Kaptsnzon et Hungerman_](https://web.uwm.edu/yiddish-stage/plotting-yiddish-drama/kaptsnzon-et-hungerman-oder-di-kaprizne-kale-moyd). All of his friends and admirers wish him long life and that the Jewish world will enjoy his talent for many years to come.
 
-![](../img/articles/1947-06-05_dertog.png) 
+![](img/1947-06-05_dertog.png)
 
 
 
@@ -319,7 +319,7 @@ There are young people who can't dance, and the comedian {{< var sam-full >}} is
 ::: {.column width="30%"}
 
 
-![](../img/articles/1948-03-21_forverts.png){width=2.5in}
+![](img/1948-03-21_forverts.png){width=2.5in}
 
 :::
 

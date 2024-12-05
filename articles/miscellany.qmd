@@ -1,8 +1,8 @@
 ---
-title: Amusing miscellany 
+title: Amusing miscellany
 ---
 
-This page contains translations of often amusing, or at least interesting, small items published in the press written about {{< var sam >}}, or that reference him in some way. 
+This page contains translations of often amusing, or at least interesting, small items published in the press written about {{< var sam >}}, or that reference him in some way.
 
 
 
@@ -23,13 +23,13 @@ This will be on December 7th, indeed in Philadelphia.
 
 ::: {.column width="5%"}
 
- 
+
 :::
 
 ::: {.column width="35%"}
 
-![[Link to article in the {{< var forverts >}} .](https://www.nli.org.il/en/newspapers/frw/1920/11/19/01/article/37/)](../img/articles/1920-11-19_forverts.png)
-                                  
+![[Link to article in the {{< var forverts >}} .](https://www.nli.org.il/en/newspapers/frw/1920/11/19/01/article/37/)](img/1920-11-19_forverts.png)
+
 :::
 
 ::::
@@ -79,10 +79,10 @@ In short, all that's left of the sandwich is its name, a tombstone of the great 
 
 ::: {.column width="35%"}
 
-![[Link to article in {{< var morgen >}}.](https://www.nli.org.il/en/newspapers/tjm/1945/04/01/01/article/78/)](../img/articles/1945-04-01_morgen.png)
+![[Link to article in {{< var morgen >}}.](https://www.nli.org.il/en/newspapers/tjm/1945/04/01/01/article/78/)](img/1945-04-01_morgen.png)
 
 
-            
+
 :::
 
 ::::
