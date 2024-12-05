@@ -1,33 +1,77 @@
 # Far tsures muz {{< var kestin >}} lachn
 
-**{{< var kestin >}} must laugh at his troubles**
+This interview of Sam was published in the [{{< var forverts >}} on 1928-04-13](https://www.nli.org.il/en/newspapers/frw/1913/05/04/01/article/21). {{< var sam-full >}}. During the [1912/1913 season](https://sjspielman.github.io/sam-kasten-memoirs/appendices/timeline.html), Sam had been performing with Sarah Adler's Novelty Theater in Williamsburg, Brooklyn, but the theater was not successful and they had to close down before the season ended. Therefore, at the time of the interview, Sam was not formally part of any theater's cast.
 
+---
+
+
+# {{< var kestin >}} must laugh at his troubles
 
 > The Yiddish comedian tells how he became an actor, and how "he got married because he had nothing to eat." -- Three Yiddish actors have one suit. -- How he would only get paid any wages if people came to the "theater-saloons"^[Vaudeville-esque Yiddish music halls]. -- Now he sings in "_Khantshe_"^[Short for _Khantshe in Amerike_, a play starring Bessie Thomashefsky [in which Sam had a small but mighty role](https://sjspielman.github.io/sam-kasten-memoirs/chapters/38_1947-01-25.html).] if he has somewhere to perform.
 
 
-"I am a comedian. I am a professional "laugher;" my business is to make jokes; I make a living from making theatergoers happy. But, you know that making a living is no laughing matter? Earning your piece of bread is no joke, even when your trade is built around laughter... Whenever I make a joke that the audience doesn't love, it truly feels like Yom Kippur in my heart^[a somber occasion]."
-
-{{< var kestin >}}, the Yiddish comedian, didn't exactly use those words with the {{< var forverts >}} reporter, but the thoughts he was expressing was the same.
-
-"I learned to laugh true heartfelt laughter," {{< var kestin >}} continued, "in Svastine^[In his [memoirs](https://sjspielman.github.io/sam-kasten-memoirs/chapters/01_1946-09-07.html), Sam calls the village Zatishiye. It's more likely the village name in the memoirs is correct.], a village in the Kiev Governate, where I lived until I was 16. My father had a _possessiye_ (farm), and during my childhood, things went well for us and I didn't have any worries. But later, my father passed away, we came to America^[Sam glosses over quite a few details here! Read more in [chapters 1-5 of his memoirs](https://sjspielman.github.io/sam-kasten-memoirs/chapters/01_1946-09-07.html)], and I got to work. Months passed, and I got used to the feeling of not having a father. I used to sing, imitate, and parody everyone and make jokes, just like I did in Svastine. The shop^[He [worked as a shirtmaker](https://sjspielman.github.io/sam-kasten-memoirs/chapters/06_1946-10-03.html) for a period of time] would always be in stitches when I let myself go.
-
-"A worker told the well-known theater manager Garstenstein about me, and he hired me. But soon, he broke away from the company and we were left without a manager. Then, a different company took over the theater (the Gaskill Street Theater in Philadelphia), and they hired me to play in a single show. At that time, Rudolph Marx was supposed to put on the play _The Orphan in Danger_^[The title recounted here is clearly orphan (יותם), but in most other sources this play is called _The Sailor in Danger_. Who knows!], and I was given a role. I went to rehearsals for two weeks but I didn't perform at first, because I pretended to get sick the evening of the performance. I did this so that I alone could appear in the play. During the two weeks of rehearsals, I copied the whole play, put together a company, rented a venue, and performed Rudolph Marx's successful play. We brought in \$60 at the box office. We were eight men, so we got about \$7 each. This was a huge amount, so we wanted to keep performing. But then, Boris Thomashefsky hired me, and that was the end of my company. I played with Thomashefsky for a little while, and when he was irritated he would pay me for my work with -- a compliment. Not money at all.
-
-"My mother was always opposed to my interest in the stage. 'A young man of your age,' she would always scold me, 'should start thinking about a _tachles_ already. What, you think you can make a living playing in a ridiculous Purim spiel?' I promised her dozens of that I'd stop acting, but I never kept my promises. It ended up that she bought a farm with the few dollars she had from back home^[In Sam's memoirs, he instead says the family won \$10,000 in the lottery and bought the farm with that money](https://sjspielman.github.io/sam-kasten-memoirs/chapters/09_1946-10-17.html#footnotes). So I had to come down from the stage and become a farmer.
-
-"A short time later, my mother passed away, and I could once again become an actor."
+:::: {.columns}
 
 
-{{< var kestin >}} came to New York and was hired in a "variety"^[Vaudeville/beer and music hall] in Brownsville, Brooklyn. He was supposed to be paid \$6 a week, but he only rarely actually received this much.
+::: {.column width="50%"}
 
-# Article image 
+"I am a comedian. I am a professional 'laugher;' my business is to make jokes; I make a living from making theater-goers happy. But, you know that making a living is no laughing matter? Earning your piece of bread is no joke, even when your trade is built around laughter... Whenever I make a joke that the audience doesn't love, it truly feels like Yom Kippur in my heart^[a somber occasion]."
 
-![](../img/articles/1928-04-13_der-tog.png)
+{{< var kestin >}}, the Yiddish comedian, didn't exactly use those words with the {{< var forverts >}} reporter, but the thoughts he expressed were the same.
+
+"I learned to laugh true heartfelt laughter," {{< var kestin >}} continued, "in Svastine^[[In his memoirs](https://sjspielman.github.io/sam-kasten-memoirs/chapters/01_1946-09-07.html), Sam calls the village Zatishiye. It's more likely the village name in the memoirs is correct.], a village in the Kiev Governate, where I lived until I was 16. My father had a _possessiye_ (farm), and during my childhood, things went well for us, and I didn't have any worries. But later, my father passed away, we came to America^[Read more details about Sam's family and youth in [chapters 1-5 of his memoirs](https://sjspielman.github.io/sam-kasten-memoirs/chapters/01_1946-09-07.html)], and I got to work. Months passed, and I got used to the feeling of not having a father. I used to sing, imitate, and parody everyone and make jokes, just like I did in Svastine. The shop^[He [worked as a shirtmaker](https://sjspielman.github.io/sam-kasten-memoirs/chapters/06_1946-10-03.html) for a period of time] would always be in stitches when I let myself go.
+
+"A worker told the well-known theater manager Garstenstein about me, and he hired me. But soon, he broke away from the company, and we were left without a manager. Then, a different company took over the theater (the Gaskill Street Theater in Philadelphia), and they hired me to play in a single show. At that time, [Rudolph Marks](https://www.museumoffamilyhistory.com/yt/lex/M/marks-rudolph.htm) was supposed to put on the play _The Orphan in Danger_^[The title recounted here is clearly orphan (יותם), but in most other sources this play is called _The Sailor in Danger_. Who knows!], and I was given a role. I went to rehearsals for two weeks but I didn't perform at first, because I pretended to get sick the evening of the performance. I did this so that I alone could appear in the play. During the two weeks of rehearsals, I copied the whole play, put together a company, rented a venue, and performed Rudolph Marks' successful play. We brought in \$60 at the box office. We were eight men, so we got about \$7 each. This was a huge amount, so we wanted to keep performing. But then, Boris Thomashefsky hired me, and that was the end of my company. I played with Thomashefsky for a little while, and when he was irritated he would pay me for my work with -- a compliment. Not money at all.
+
+"My mother was always opposed to my interest in the stage. 'A young man of your age,' she would always scold me, 'should start thinking about a _tachles_ already. What, you think you can make a living playing in a ridiculous _Purim spiel_?' I promised her dozens of times that I'd stop acting, but I never kept my promises. It ended up that she bought a farm with the few dollars she had from back home^[[In Sam's memoirs](https://sjspielman.github.io/sam-kasten-memoirs/chapters/09_1946-10-17.html#footnotes), he instead says the family won \$10,000 in the lottery and bought the farm with that money.]. So I had to leave the stage and become a farmer.
+
+"A short time later, my mother passed away^[[In his memoirs](https://sjspielman.github.io/sam-kasten-memoirs/chapters/09_1946-10-17.html), Sam describes that his mother give him "permission" to be an actor before she passed away. While we can't know if this was really true, it is nice to think so.], and I could once again become an actor."
+
+{{< var kestin >}} came to New York and was hired in a "variety" in Brownsville, Brooklyn^[Read more about Sam's time in Brownsville in [chapter 11 of his memoirs](https://sjspielman.github.io/sam-kasten-memoirs/chapters/11_1946-10-24.html)]. He was supposed to be paid \$6 a week, but he only rarely actually received this much. The visitors who came to the music hall had no money themselves. Anyone who bought a drink at the bar was allowed to sit near the performance... The manager would show {{< var kestin >}} the receipts at the end of the week - customers didn't drink enough beer, or they didn't pay their tabs, and therefore there he couldn't pay {{< var kestin >}} the \$6 he owed him.
+
+"So that's how I languished away for a little while, "{{< var kestin >}} continued. "In those days, I was simply starving. I barely had what I needed to survive. But I didn't want to beg -- I often had days where I didn't eat anything but a bagel and a banana. But even then - starving - I would laugh in front of the audiences. I was hired to be a comedian, after all!
+
+"In those days, I was hanging around with comedian [Jacob Frank](https://www.museumoffamilyhistory.com/yt/lex/F/frank-jacob.htm), and he gave me some advice - If I was going to die of hunger anyways, I might as well get married! This was the plan: I'd have a wedding (like only a comedian could!) and then we could both starve together - me and my wife...
+
+"Later on, we had children, and they starved with us too.
+
+"We traveled around the provinces - my wife and I, Frank and his wife, and [Jacob Cone](https://www.museumoffamilyhistory.com/yt/lex/C/cone-jacob.htm). We would oftentimes have to leave our wives behind in a city, while we traveled alone to the next city. We weren't able to travel together. We had no money for expenses at all. Once, we traveled to Cincinnati^[Read more about his time in Cincinnati in [chapters 18-20 of his memoirs](https://sjspielman.github.io/sam-kasten-memoirs/chapters/18_1946-11-16.html)]. We had found a local big shot, one Mr. Himmelfarb, who turned out to be a good brother and arranged a few performances for us to play. But he had already had an unpleasant experience with a different Yiddish acting company, so he didn't trust us with a penny. We had nothing to eat. We had to bring our wives to Cincinnati, because without them we couldn't perform, but without any money, how?
+
+"We came up with a plan: All three of us go home, take off all our clothes, and pool them together. We kept just one old suit. The rest we packed up in a bundle, and one of us went to sell it in a pawnshop. The next few days, we couldn't leave our room. When someone wanted to go out, they wore the old suit, and the other two stayed behind in bed.
+
+"We sent the money we got from the pawnshop for our clothes and nice coats to Mrs. Frank and my wife in Pittsburgh. A few days later, a "messenger" knocked on our door with a telegram saying that our wives were on their way.
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="45%"}
 
 
-# About "Far tsures muz {{< var kestin >}} lachn
+![](img/1913-05-04_forverts.png)
 
-{{< var sam-full >}} was interviewed for the article "Far tsures muz {{< var kestin >}} lachn" ("{{< var kestin >}} must laugh at his troubles") by the {{< var forverts >}} [towards the end of the 1912/1913 season](https://sjspielman.github.io/sam-kasten-memoirs/appendices/timeline.html), performing with Sarah Adler's Novelty Theater in Williamsburg, Brooklyn, but the theater was not successful and they had to close down before the season ended. Therefore, at this time, Sam was not formally part of any theater's cast. 
-You can read more about Sam's whereabouts during this time period from his memoirs in [chapters 37-39](https://sjspielman.github.io/sam-kasten-memoirs/chapters/37_1947-01-23.html)
+:::
 
+::::
+
+
+
+Then, a heated debate unfolded between Frank and I. Neither of us would pick up our wives - I wanted him to go, and he wanted me to go. We were really agitated over this for two reasons. First of all, it was very cold, and in only the old suit with no overcoat, a man could freeze to death. Second, the suit was a huge size - size 45 - and everyone would chase after you laughing at how ridiculous you looked. And therefore, neither of us wanted to go pick up our wives.
+
+"In the end, it was me who went. I worse the outrageously oversized suit, with the pants folded up half a dozen times, but even then they were still too long. The jacket was so big on me that I completely disappeared into it. Trembling from the cold, I went to the station. When my wife saw me she started laughing and crying.
+
+"While walking back holding my child's hand^[His youngest son would have been around 4 years old], I tripped over my pants and fell. I got back home completely banged up and dishevled.
+
+"The performance was two days later. The theater was packed. Himmelfarb alone handled the money - he didn't trust us anywhere near the box office because he was scared we'd run off with the money and leave without performing. That evening, in the middle of the performance, he handed over the earnings - it was \$485!
+
+"We performed in Cincinnati for a little while, and things weren't too bad for us. But soon, things started to go poorly and we had to leave for another city. That's how we _schlepped_ around from city to city in those days. I didn't always have food to eat; on the other hand, I was always the manager.
+
+"Once, I brought Thomashefsky around to perform with us, and when he went back he took me with him. He liked my acting and suggested that, instead of me being his manager, I should go back to New York with him and he would be my manager. I went with him back to New York and for the first time performed on the legitimate stage. This was 13 years ago. I earned \$25 a week^[For an alternate recounting of how and where Thomashefsky invited Sam to play in New York, see [chapter 24 of Sam's memoirs](https://sjspielman.github.io/sam-kasten-memoirs/chapters/24_1946-12-07.html).].
+
+"The second season, I played in Kalich's Windsor Theater and was already earning \$45 a week. I appeared in a piece, "The Jew in the Age of Sobietsky"^[Described in [chapter 32 of Sam's memoirs](https://sjspielman.github.io/sam-kasten-memoirs/chapters/32_1947-01-04.html).], and a representative from the _Forverts_ who attended wrote a good review of my performance. So, the second week I earned \$55.
+
+"After that, I performed with my wife in Kessler's Theater^[Described in [chapters 33-35 of Sam's memoirs](https://sjspielman.github.io/sam-kasten-memoirs/chapters/33_1947-01-09.html).], and later in Thomashefsky's theater^[Described in [chapter 36 of Sam's memoirs](https://sjspielman.github.io/sam-kasten-memoirs/chapters/36_1947-01-18.html).]. At the beginning of this season, Madam Adler and Mr. Shildkraut asked me to perform with them, and I accepted their invitation^[Described in [chapters 37-38 of Sam's memoirs](https://sjspielman.github.io/sam-kasten-memoirs/chapters/37_1947-01-23.html).]. But that theater closed. Now, I play "jobs", that is, I play wherever I get a gig. I perform in _Khantshe in Amerike_ and sing a little son "Ich Hob"^[[Sheet music](https://www.loc.gov/item/ihas.200182188/), a [recording](https://www.youtube.com/watch?v=YJfmY-qlwIo), and a [translation](http://www.yiddishpennysongs.com/2017/09/ikh-hob-ales-vos-ikh-darf-bay-andere.html) are available.].
+
+"Whenever I tell audiences that I have endured great troubles and poverty, they don't believe it. I tell them of my trouble in all earnesty, and they double over in laughter. _Gazlonish herzer!_!^[idiom which seems to be (?) alà, "those bastards!"]
