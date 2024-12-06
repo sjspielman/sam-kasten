@@ -80,6 +80,9 @@ Click on any picture below to scroll through them as a photo gallery.
 
 ![](img/about-sam/sam0.jpg){group="sam"}
 
+![Sam performs [his song _"Ich Hob"_](https://www.loc.gov/item/2023796259/) in the play _Khantshe in Amerike_](img/about-sam/ich-hob.png){group="sam"}
+
+
 
 ![Photograph of Sam taken in Chicago, time unknown](img/about-sam/sam-chicago.png){group="sam"}
 
