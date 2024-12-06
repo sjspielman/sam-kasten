@@ -6,7 +6,7 @@ title: About Sam Kestin
 
 Start by read his [entry in the {{< var leks >}}](https://www.museumoffamilyhistory.com/yt/lex/K/kasten-sam.htm)! Note that a good amount of the information in his entry was obtained from his [memoirs](./memoirs.qmd).
 
-## Entry in the [_Yiddish (Jewish) World Almanac_ (1926)](https://archive.org/details/nybc205590/page/n349/mode/2up?view=theater)
+## Entry in the [_Jewish World Almanac_ (1926)](https://archive.org/details/nybc205590/page/n349/mode/2up?view=theater)
 
 > Sam is today both the youngest and oldest Yiddish comedian on the stage[^oldyoung]. In his time, Mogulesko was the comedian among comedians, and {{< var kestin >}} is in his time the comedian among comedians. {{< var kestin >}} is a true Yiddish-American comedian. He was born in a European shtetl, but he was brought up in the true American-Yiddish atmosphere.
 >
