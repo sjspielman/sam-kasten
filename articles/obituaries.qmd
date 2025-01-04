@@ -1,0 +1,123 @@
+---
+title: Obituaries 
+---
+
+Sam Kasten ז׳׳ל passed away on March 4th, 1953 in New York City, just shy of his 84th birthday (April 21st). 
+From obituaries below, we learn that he suffered dementia in his older years and passed away under very difficult and sad circumstances.
+
+He is buried in [Har Jehuda cemetery](https://en.wikipedia.org/wiki/Har_Jehuda_Cemetery) in Upper Darby, PA (outside of Philadelphia) with his wife (pictured below) and sons.
+
+![Sam and his wife Suzie's grave. Note that Sam was not actually 88 years old; he was 83.](img/kasten-grave.png){width=5in}
+
+
+Translations of obituaries and images of the articles themselves are below.
+I recommend reading them in order to get the full story, as it were.
+
+
+## March 5th, 1953
+
+::: {style="text-align: right;"}
+Published in _Der Tog_ on [1953-03-05](https://www.nli.org.il/en/newspapers/dertog/1953/03/05/01/article/15)
+:::
+
+::: {style="font-size: 130%;"}
+
+**{{< var sam-full >}}, famous Yiddish performer, dies; funeral Friday**
+
+:::
+
+:::: {.columns}
+
+
+::: {.column width="60%"}
+
+
+Following a brief illness, the 88-year old^[Again, he was actually 83. It's not clear where 88 came from.] famous Yiddish performer {{< var sam-full >}} pass away. This evening, his body will be transported to Schwartz's Funeral Parlor at 2nd and 10th.
+
+The funeral will take place tomorrow, Friday, at 12 pm in Philadelphia at Rosenberg's Funeral Parlor, 2009 N Broad St.
+
+A representative from the Hebrew Actor's Union, where the deceased was beloved and esteemed, will take part in the funeral^[The representative was [Sholem Perlmutter](https://www.museumoffamilyhistory.com/yt/lex/P/perlmutter-sholem.htm). The article he wrote about his experience is translated below].
+
+{{< var sam-full >}} ע׳׳ה^[עליו–השלום; may peace be upon him] was one of the most highly sought-after comedians in Yiddish operettas, and he was beloved by Jewish audiences across America and Europe^[Note that we don't actually have any specific knowledge that he ever traveled to Europe; he either did tour Europe but we do not have a record, or this is just embellishment.].
+
+The last three years of his life, {{< var sam-full >}} didn't perform any longer. Before then, he would appear before audiences once a year or so for a special "honor-event"^[Performances specifially held to honor/benefit an actor; ערן–אָווענט] that his fans and friends would arrange for him. Prominent Yiddish actors would appear in these performances too. Old and age but full of life as ever, he {{< var sam-full >}} would also show up at the Actor's Union meetings, as well as at the Yiddish Actor's Club. 
+
+{{< var sam-full >}} ע׳׳ה's death has brought a great sadness to the theater community.
+
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="35%"}
+
+![](img/1953-03-05_der-tog.png)
+
+:::
+::::
+
+
+
+
+
+
+
+
+
+## March 6th, 1953
+
+::: {style="text-align: right;"}
+Published in the {{< var forverts >}} on [1953-03-06](https://www.nli.org.il/en/newspapers/frw/1953/03/06/01/article/13)
+:::
+
+::: {style="font-size: 130%;"}
+
+**The happy and tragic {{< var sam-full >}}**
+
+:::
+
+By [Chaim Ehrenreich](https://www.museumoffamilyhistory.com/yt/lex/E/ehrenreich-chaim.htm)
+
+> He outlived his generation, his time, and indeed himself. -- A modest flower on his fresh grave.
+
+:::: {.columns}
+
+
+::: {.column width="60%"}
+
+The last few years of his life, {{< var sam-full >}} didn't perform any theater. The last time he appeared on the stage was three years ago at one of the special events honoring him that a few of his close friends used to arrange, sometimes in Second Avenue Theater, sometimes in Public Theater.Hundreds and thousands of his longtime fans used to come see him perform, shaking their heads in wonderment - look how he still dances! Look how youthful he is! And it did them a world of good to see, because if he, the old man {{< var kestin >}} who they remember from back in the old days, can move his feet like that and even do somersaults, then they too would be "alright." They could stay young just like him.
+
+When they were still young scamps themselves, they saw him perform in Horowitz's _Der Poylisher Yingl_ and in Shaknovitch's _Immigranten_^[These plays, _The Polish Boy_ and _Immigrants_, were popular in the 1890s/1900s.]. {{< var kestin >}} performed in {{< var mogu >}}'s roles, immitating his older famous colleague but still with a {{< var kestin >}}-ishness in his acting. And he was the very best dancer, so light on his feet...
+
+But for the last few years of his life, {{< var kestin >}} wasn't who he used to be. He was always joyful, always had a few jokes ready to go with a smile. But on the inside, when he was by himself, he was deeply uphappy. He had lost two fo this three children - his only daughter Lily^[She died of ovarian cancer in 1946 at the age of 48.] and his older son Fred^[He died of longterm lung complications from mustard gas exposure World War I in 1935 at the age of 39.]. He had lost his wife Suzie nine years ago^[She did in 1944.]. Like a true actor, he hid his true feelings from the world. But depressed he was.
+
+Lola^[לאָלאַ; The pen name of [Leon Israel](https://www.jta.org/archive/leon-israel-jewish-artist-and-cartoonist-dies-was-67)], painter and {{< var forverts >}} cartoonist, grew very close to {{< var kestin >}} and took him under his wing. And {{< var kestin >}}, who was a couple decades older than Lola, called him _zayde_ and really clung to the much-younger Lola. More than once when {{< var kestin >}} made yet another excessive "_l'chaim_"^[a toast, and of course a drink!], Lola would tenderly wrap him up in his coat and take him back to his hotel.
+
+He had lost his wife and two of his children. He also outlived the Yiddish theater, and indeed himself. And he was depressed, miserable - an _ibergeblibener_^[One who remains; evokes post-Holocaust Yiddish phrasing for the wretched survivors].
+
+According to his son Lewis {{< var kestin >}}, he was more like a child than adult during the last two years of his life^[In other words, he had dementia.]. Nevertheless, from time to time he would regain his memory, and he'd slip out of the house and make for the Yiddish Actor's Club. They'd have to escort him back home.
+
+One time in the last few months, when he came to the Actor's Union, he ran into the writer Sholem Perlmutter, took his hand, looked him in the eye and said:
+
+"When - when it comes time for my funeral, come to Philadelphia and a few words about me."
+
+And the words one could say about him are:
+
+A piece of Yiddish theater is gone along with him. He was among the first there was, from the very start. He began acting in Singer's Hall in Brooklyn some 60 years ago. After that, he played real theater in Philadelphia in Franklin Theater.
+
+
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="35%"}
+
+![](img/1953-03-05_der-tog.png)
+
+:::
+::::
+
+
