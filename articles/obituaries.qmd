@@ -121,3 +121,30 @@ Rest in peace, old friend.
 
 
 
+
+## March 17th, 1953
+
+::: {style="text-align: right;"}
+Published in _Der Tog_ on [1953-03-17](https://www.nli.org.il/en/newspapers/dertog/1953/03/17/01/article/86)
+:::
+
+::: {style="font-size: 130%;"}
+
+**{{< var sam-full >}}**
+
+:::
+
+By [Sholem Perlmutter](https://www.museumoffamilyhistory.com/yt/lex/P/perlmutter-sholem.htm)
+
+> A word on his fresh grave.
+
+{{< var sam-full >}} lived his life quietly, withdrawn and very hospitable^[Possible mistranslation here? from אויף א זעהר שיינעם בעל–הבית–ישען אפון]. The Yiddish theater world remembers {{< var sam-full >}} from his prolific days when he created personalities and characters on the Yiddish stage. Many of them also know that with the death of {{< var sam-full >}}, the Yiddish theater world has lost a talented performer. He was one of the first. {{< var sam-full >}} was almost one of the pioneers who began in the {{< var heder >}} of {{< var goldfaden-full >}}. And throughout his entire career as a Yiddish actor, he was a mirror into those times.
+
+Many remember when he was the the "buf"^[slapstick comedian] who sang couplets and danced. Many others also remember when he excelled in roles that {{< var mogu-full >}} played like "dos poylisher yingl"^[the Polish boy] from Professor Ish Horowitz Halevy; "Feitl Pavolye" in Nahum Meir Shaknovitch's (Shomer's) _Immigranten_. And the whole world remembers when he performed with David Kessler, Jacob P. Adler, and other notable personalities like Shildkraut. He really excelled in character-comedy roles.
+
+But just as life doesn't stay forever in one place, neither do the performing arts, but instead evolves over time. The new young generation always steps up as capable performers who bring their own concepts and ideals to the stage. And in the end, these young performers emerge victorious because the old guard must give way to new, just as in life.
+
+{{< var sam-full >}} was, in this case, an exception. He has always caught our eye and drawn our attention, because he absorbed the theater atmosphere along with his mother's milk. His later activities on the Yiddish stage helped him a lot to become a famous actor, comedian, and _mensch_ and made him immensely popular on the stage.
+
+{{< var sam-full >}} was the first to bring ordinary comedy to the Yiddish stage. His possesses a terrific enthusiasm, a lot of impetuousness, a booming presence and tempestuousness. Theater audiences always looked upon him with wonderment. When {{< var sam-full >}} danced such that the stage floorboards would shake under his feet, he became energized and ignited with spirit, and his talent spilled out from him as he danced with a fiery passion in his eyes. He sang, danced, and burned with them. The great joy he derived from performing theater shook him up and gradually transformed into theatrical passion. He never grew tired and or apathetic, but always possessed an actor's ectasy. Both audiences and critics alike always held his talent in high esteem.
+
