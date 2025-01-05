@@ -24,6 +24,8 @@ website:
         menu: 
           - text: Birthdays
             href: ./articles/birthdays.qmd
+          - text: Obituaries
+            href: ./articles/obituaries.qmd
           - text: Miscellany
             href: ./articles/miscellany.qmd
           - text: _Far tsures muz Kasten lachn_ (1913-05-04) 
