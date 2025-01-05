@@ -82,11 +82,6 @@ By [Chaim Ehrenreich](https://www.museumoffamilyhistory.com/yt/lex/E/ehrenreich-
 
 > He outlived his generation, his time, and indeed himself. -- A modest flower on his fresh grave.
 
-:::: {.columns}
-
-
-::: {.column width="60%"}
-
 The last few years of his life, {{< var sam-full >}} didn't perform any theater. The last time he appeared on the stage was three years ago at one of the special events honoring him that a few of his close friends used to arrange, sometimes in Second Avenue Theater, sometimes in Public Theater.Hundreds and thousands of his longtime fans used to come see him perform, shaking their heads in wonderment - look how he still dances! Look how youthful he is! And it did them a world of good to see, because if he, the old man {{< var kestin >}} who they remember from back in the old days, can move his feet like that and even do somersaults, then they too would be "alright." They could stay young just like him.
 
 When they were still young scamps themselves, they saw him perform in Horowitz's _Der Poylisher Yingl_ and in Shaknovitch's _Immigranten_^[These plays, _The Polish Boy_ and _Immigrants_, were popular in the 1890s/1900s.]. {{< var kestin >}} performed in {{< var mogu >}}'s roles, immitating his older famous colleague but still with a {{< var kestin >}}-ishness in his acting. And he was the very best dancer, so light on his feet...
@@ -105,19 +100,24 @@ One time in the last few months, when he came to the Actor's Union, he ran into 
 
 And the words one could say about him are:
 
-A piece of Yiddish theater is gone along with him. He was among the first there was, from the very start. He began acting in Singer's Hall in Brooklyn some 60 years ago. After that, he played real theater in Philadelphia in Franklin Theater.
+A piece of Yiddish theater is gone along with him. He was among the first there was, from the very start. He began acting in Singer's Hall in Brooklyn some 60 years ago. After that, he played real theater in Philadelphia in Franklin Theater. And from then on, he spent six decades performing in every city and state across America where Jews live.
+
+He was more of a "buf"^[slapstick comedy] comedian than a character actor. He was easy, mischevious, and superficial, if you will, but with such charm. He was theater itself, through and through, with all the good and bad parts of the profession. His colleagues remember him as a good friend and partner, a _harziger mensch_.
+
+Three weeks ago on a Sunday morning, during the blizzard in New York - the only snow storm we had this winter - {{< var sam-full >}} snuck of his hotel. He didn't know why he went out or where he was going. A few hours later, he was found half frozen to death on the shore of the East River. Not knowing who this ragged little old man with the head of white hair was, the police brought him to [City Hospital](https://en.wikipedia.org/wiki/City_Hospital_(Roosevelt_Island)) on [Welfare Island](https://en.wikipedia.org/wiki/Roosevelt_Island). They later determine who he was and informed his son Lewis, but {{< var sam-full >}} was too weak and his temperature was too high to be taken home. 
+
+So, he spent the last three weeks of his life on Welfare Island. None of his longtime friends or admirers knew where he was. Only his son and Charlie Cohan, the secretary of the Theatrical Alliance, came to him during the last days of his sad life. On Wednesday morning, his soul departed his body.
+
+In the old days, when the likes of Mogulesko, David Kessler, or Jacob P. Adler passed away, grand funerals would be held. Fans would come in the thousands to bid them farewell. I want to believe that, in Philadelphia, scenes like this will also accompany {{< var sam-full >}} as he goes to his eternal rest. He wanted to be buried with his wife and children, and his wish was of course granted. Like every actor, he hoped for a grand funeral.
+
+But I am afraid that the days of grand funeral processions are gone. Just another funeral for an actor who hasn't performed in years who outlived his generation and his time....
+
+As one of {{< var sam-full >}}'s many friends - how often we would meet to _kibitz_ in the _theater-kibitzarnie_, Lola, myself, and Lola's "grandson"^[referring to Sam, who called Lola _"zayde"_] - I carry a modest flower to the joyous-tragic {{< var sam-full >}}.
+
+Rest in peace, old friend.
 
 
+![](img/1953-03-06_forverts.png)
 
-::: {.column width="5%"}
-
-:::
-
-::: {.column width="35%"}
-
-![](img/1953-03-05_der-tog.png)
-
-:::
-::::
 
 
