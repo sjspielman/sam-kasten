@@ -172,3 +172,46 @@ Everyone who knew him got a lot of joy being in his company, because everyone kn
 
 ![](img/1953-03-17_der-tog.png)
 
+
+
+## April 4th, 1953
+
+::: {style="text-align: right;"}
+Published in _Der Tog_ on [1953-04-04](https://www.nli.org.il/en/newspapers/dertog/1953/04/04/01/article/86)
+:::
+
+::: {style="font-size: 130%;"}
+
+**My dear old friend**^[He specifically uses a phrase meaning, "friend since youth."]
+
+:::
+
+By [Boaz Young](https://www.museumoffamilyhistory.com/yt/lex/Y/young-bernard.htm)^[An actor and dear friend of Sam's. They had performed together since the 1890s.]
+
+> For {{< var sam-full >}}'s [_shloshim_](https://www.chabad.org/library/article_cdo/aid/371240/jewish/The-Shloshim.htm)
+
+When you're sitting by yourself in a room in Los Angeles, and you look out at the beautiful, sunny weather, all kinds of thoughts come to mind. You think more about the past as eternity draws nearer... Suddenly you hear footsteps... They're the footsteps of the messenger who brings news - good news, bad news, to the people in the building. 
+
+I run to meet him. He hands me a letter. Holding the letter in my hand, I feel that it barely weighs anything. I say to my myself: my friend, the actor [Mordechai Yachson](https://www.museumoffamilyhistory.com/yt/lex/Y/yachson-mordechai.htm), _nebekh_, is so stingy he won't use more than a _shtikel_ paper. I open and take out a single piece of printed paper just three inches long, on which is a picture of my dear old friend, {{< var sam-full >}}.
+
+I stay standing... and look at the picture and think: Is this shred of paper all I have left to remember him by, when such a thing should fill hundreds of sheets of paper... Memories of a 65-year-long friendship from my life in the theater. A life of hunger, wandering, licentiousness but also honor, fortune, and fame.
+
+In my subconscious, events and episodes we experienced over the last 65 years of our life in the theater begin to swim around. And I think further: Is this bit of paper now the open grave where I bury the all the comical-tragic times we went both through together on the stage of our lives? We both married actresses who were friends like we were. And both of them gave us a daughter, who both (our children) died of the same illness (cancer). Almost at the same time, the witch, the old man, and Father Time with sickle in hand, cut short the lives of our own children. 
+
+And now he has come for you at 85 years (I saw his naturalization papers^[Boaz here is implying that he alone _truly_ knows how old Sam is. The mystery lives on!]), and soon will come for me.
+
+***
+
+{{< var sam-full >}} absorbed the great Sigmond Mogulesko's essence itself and passed it along to the audiences in his own charming way. People used to call him the "Yiddish [George Cohan](https://en.wikipedia.org/wiki/George_M._Cohan)." {{< var kestin >}} was recognized as a first-class "buf-comedian"^[slapstick]. That's why I rewrote the melodrama _Di Bigamist'n_^[_The Bigamist_] by the late actor [Meisel](https://www.museumoffamilyhistory.com/yt/lex/M/meisel-hyman.htm) into a musical called _Mayn Vayb's Man_^[_My Wife's Husband_] - or as they called it in Europe, _Semkele_, and created leading roles for both him and my wife [Clara Young](https://www.museumoffamilyhistory.com/yt/lex/Y/young-clara.htm). I remember how he covered me with kisses when he came off from the stage after the duet he and Clara sang together in _Mayn Vayb's Man_ as the audience loudly applauded.
+
+And I remember, in Baltimore, when the great tragedy happened in our theater and 34 people died^[Read Sam's account of this incident [in his memoirs](https://sjspielman.github.io/sam-kasten-memoirs/chapters/15_1946-11-07.html) where someone yelled fire in a theater because they mistook a flame from a gas pipe, and (more likely) 23 people were trampled in a stampede to escape.]. {{< var kestin >}} didn't perform in the play that evening. He was standing by the door manning the box office. He collected \$150. The play hadn't started yet, and the cash register was full of money. The next day, {{< var kestin >}} brought us back the money. We wanted to split up the \$150 among us, but {{< var sam-full >}} said to us,
+
+"Colleagues, there are 34 funerals across the city today. At the box office, I sold a ticket to an aquaintance of mine and his wife. While trying to save her, he was trampled to death. His wife is now a widow with children without a provider. We didn't even perform the play - should we now divide up their dollars among us? I think," the young {{< var kestin >}}^[He would have been about 26.] continued, "that we should give the \$150 to the wives whose husbands and children were killed so horrifyingly in our theater. We should do something for them..."
+
+And then {{< var kestin >}} gave the money to the committee which was arranged to support the wives of the deceased.
+
+May this memory be a flower on your grave.
+
+My departed colleague, my dear old friend {{< var sam-full >}}, together we were the last two Mohicans of the Yiddish theater... We arrived to the theater when he^[the theater, metaphorically] was just starting to stand on its own. We helped him walk, helped him pull the heavy wagon... Now, he's left not knowing what to do or where to go at all... with you gone... And I am left alone, the last Mohican...
+
+![](img/1953-04-04_der-tog.png)
