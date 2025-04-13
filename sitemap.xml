@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sjspielman.github.io/sam-kasten/memoirs.html</loc>
-    <lastmod>2025-01-07T01:38:17.832Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sjspielman.github.io/sam-kasten/articles/1935-04-17_forverts.html</loc>
-    <lastmod>2025-01-07T01:38:17.116Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sjspielman.github.io/sam-kasten/articles/1913-05-04_forverts.html</loc>
-    <lastmod>2025-01-07T01:38:17.116Z</lastmod>
-  </url>
-  <url>
     <loc>https://sjspielman.github.io/sam-kasten/articles/miscellany.html</loc>
-    <lastmod>2025-01-07T01:38:17.704Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sjspielman.github.io/sam-kasten/about-sam.html</loc>
-    <lastmod>2025-01-07T01:38:17.116Z</lastmod>
+    <lastmod>2025-04-13T02:10:07.975Z</lastmod>
   </url>
   <url>
     <loc>https://sjspielman.github.io/sam-kasten/articles/obituaries.html</loc>
-    <lastmod>2025-01-07T01:38:17.704Z</lastmod>
+    <lastmod>2025-04-13T02:10:07.975Z</lastmod>
   </url>
   <url>
-    <loc>https://sjspielman.github.io/sam-kasten/articles/birthdays.html</loc>
-    <lastmod>2025-01-07T01:38:17.116Z</lastmod>
+    <loc>https://sjspielman.github.io/sam-kasten/articles/1913-05-04_forverts.html</loc>
+    <lastmod>2025-04-13T02:10:07.443Z</lastmod>
   </url>
   <url>
-    <loc>https://sjspielman.github.io/sam-kasten/articles/1928-04-13_der-tog.html</loc>
-    <lastmod>2025-01-07T01:38:17.116Z</lastmod>
+    <loc>https://sjspielman.github.io/sam-kasten/about-sam.html</loc>
+    <lastmod>2025-04-13T02:10:07.443Z</lastmod>
   </url>
   <url>
     <loc>https://sjspielman.github.io/sam-kasten/index.html</loc>
-    <lastmod>2025-01-07T01:38:17.832Z</lastmod>
+    <lastmod>2025-04-13T02:10:08.087Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sjspielman.github.io/sam-kasten/memoirs.html</loc>
+    <lastmod>2025-04-13T02:10:08.087Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sjspielman.github.io/sam-kasten/articles/1935-04-17_forverts.html</loc>
+    <lastmod>2025-04-13T02:10:07.443Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sjspielman.github.io/sam-kasten/articles/1928-04-13_der-tog.html</loc>
+    <lastmod>2025-04-13T02:10:07.443Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sjspielman.github.io/sam-kasten/articles/birthdays.html</loc>
+    <lastmod>2025-04-13T02:10:07.443Z</lastmod>
   </url>
 </urlset>
