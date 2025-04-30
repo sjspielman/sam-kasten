@@ -7,7 +7,7 @@
 
 A dance, a jump - _that's all_!
 
-That's how {{< var sam-full >}} danced his way through his little world for 65 years, and in his dancing and jumping on Second Avenue, people see him move with the same ease as you'd expect to see on the Broadway stage. 
+That's how {{< var sam-full >}} danced his way through his little world for 65 years, and in his dancing and jumping on Second Avenue, people see him move with the same ease as you'd expect to see on the Broadway stage.
 
 Yes, from Broadway. {{< var kestin >}} was the first to bring a Broadway sensibility to the Yiddish stage. His couplets included _"Fifty-fifty"_, _"The line is busy_", _"A mistake"_. He felt that we needed to attract an English-speaking audience to the Yiddish stage. He already felt this way 70 years ago.
 
@@ -25,7 +25,7 @@ Actors too have schools. They don't copy, but follow in someone else's the foots
 
 And that's {{< var sam-full >}}.
 
-When he isn't performing, people see him going around in his {{< var sam-kestin >}}-esque manner. His vibe attracts the American youth to the Yiddish stage, and successfully too. 
+When he isn't performing, people see him going around in his {{< var sam-full >}}-esque manner. His vibe attracts the American youth to the Yiddish stage, and successfully too.
 
 My son, who is already a young man of 30 used to copy {{< var kestin >}} - he'd talk like him, sing like him, walk, dance, and even eat and sleep with {{< var sam-full >}}'s songs on his lips.
 
