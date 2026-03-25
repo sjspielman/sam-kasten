@@ -8,7 +8,7 @@ It's worth noting that Sam was most likely born on April 21st, 1869. If this is 
 Translations of associated articles, and images of the articles themselves, are below.
 
 
-## 50th birthday
+## 50th birthday {#sec-50th-birthday}
 
 ::: {style="text-align: right;"}
 Published in the {{< var forverts >}} on [1920-04-18](https://www.nli.org.il/en/newspapers/frw/1920/04/18/01/article/58/)
@@ -84,14 +84,7 @@ A huge banquet is being arranged to which all manner of actors and actresses are
 
 
 
-
-
-
-
-
-
-
-## 60th birthday
+## 60th birthday {#sec-60th-birthday}
 
 ::: {style="text-align: right;"}
 Published in the {{< var forverts >}} on [1930-04-04](https://www.nli.org.il/en/newspapers/frw/1930/04/04/01/article/34/)
@@ -168,7 +161,10 @@ A group of his friends and colleagues organized a performance in {{< var sam-ful
 
 ::::
 
-## 70th birthday
+
+
+
+## 70th birthday {#sec-70th-birthday}
 
 ::: {style="text-align: right;"}
 Published in the {{< var forverts >}} on [1940-03-20](https://www.nli.org.il/en/newspapers/frw/1940/03/20/01/article/74)
@@ -207,7 +203,9 @@ After the performance, there will be a huge concert that [Aaron Lebedeff](https:
 
 
 
-## 71st birthday
+
+
+## 71st birthday {#sec-71st-birthday}
 
 ::: {style="text-align: right;"}
 Published in the _Forverts_ on [1940-03-08](https://www.nli.org.il/en/newspapers/frw/1940/03/08/01/article/30/)
@@ -253,7 +251,7 @@ After the performance there will be a magnificent concert at which the great sta
 
 
 
-## 80th birthday
+## 80th birthday {#sec-80th-birthday}
 
 ::: {style="text-align: right;"}
 Published in _Der Tog_ on [1947-06-05](https://www.nli.org.il/en/newspapers/dertog/1947/06/05/01/article/68)
@@ -295,7 +293,7 @@ For his 80th birthday jubilee, {{< var sam-full >}} has chosen to perform one of
 
 
 
-## 81st birthday
+## 81st birthday {#sec-81st-birthday}
 
 ::: {style="text-align: right;"}
 Published in the "Second Section" of the {{< var forverts >}} on [1948-03-21](https://www.nli.org.il/en/newspapers/frw/1948/03/21/01/article/80.1)

@@ -6,7 +6,7 @@ This page contains translations of often amusing, or at least interesting, small
 
 
 
-## 1920-11-19
+## 1920-11-19 {#sec-1920-11-19}
 
 
 :::: {.columns}
@@ -36,7 +36,7 @@ This will be on December 7th, indeed in Philadelphia.
 
 
 
-## 1945-04-01
+## 1945-04-01 {#sec-1945-04-01}
 
 :::: {.columns}
 
