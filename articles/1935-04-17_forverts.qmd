@@ -2,29 +2,81 @@
 
 > He was the first to bring Broadway sensibility to the Yiddish stage. -- The actor who is always young and joyful even though his hair is already white.
 
-[Translator's note: Throughout this article, there are several English phrases written in transliterated Yiddish. I have italicized these phrases to indicate they were indeed written "in English."]
 
+:::: {.columns}
+
+
+::: {.column width="50%"}
 
 A dance, a jump - _that's all_!
 
-That's how {{< var sam-full >}} danced his way through his little world for 65 years, and in his dancing and jumping on Second Avenue, people see him move with the same ease as you'd expect to see on the Broadway stage.
+That's how {{< var sam-full >}} has danced his way through his little world for 65 years, and in his dancing and jumping on Second Avenue, people see him move with the same ease as you'd expect to see on the Broadway stage.
 
 Yes, from Broadway. {{< var kestin >}} was the first to bring a Broadway sensibility to the Yiddish stage. His couplets included _"Fifty-fifty"_, _"The line is busy_", _"A mistake"_. He felt that we needed to attract an English-speaking audience to the Yiddish stage. He already felt this way 70 years ago.
 
-I don't mean to say that {{< var kestin >}} was someone who copied American actors, because his best roles were all true Jewish types - _chasidishe_, enthusiastically-Jewish characters, but the Jewish East Side^[Lower East Side, NYC] which has yearned for Broadway comedians because they are strangers to the East Side, has long seen {{< var kestin >}} as a comedia "ala Broadway."
+I don't mean to say that {{< var kestin >}} was someone who copied American actors, because his best roles were all true Jewish types - _chasidishe_, enthusiastically-Jewish characters, but the Jewish East Side^[Lower East Side, NYC] which has yearned for Broadway comedians because they are strangers to the East Side, has long seen {{< var kestin >}} as a comedian "a là Broadway."
 
-Every writer, composter, sculpture, follows a well-known artist from an earlier era. In the art world, people say that someone belongs to such-and-such school. For example in the literary world, people say, "He is a classical writer." In the music world, "he belongs to the Wagner school." In the painting world, "he belongs to the Rembrandt school," and so on and so forth.
+Every writer, composer, sculptor, follows a well-known artist from an earlier era. In the art world, people say that someone belongs to such-and-such school. For example in the literary world, people say, "He is a classical writer." In the music world, "he belongs to the Wagner school." In the painting world, "he belongs to the Rembrandt school," and so on and so forth.
 
 Actors too have schools. They don't copy, but follow in someone else's the footsteps. {{< var sam-full >}} takes after {{< var mogu-full >}}. He always imitates {{< var mogu >}}'s little dances and their little idiosyncracies, but in a {{< var kestin >}}-esque sort of way. {{< var mogu >}} himself actually pointed this out - three days before his death, I went to visit {{< var mogu >}}, and feeling like this was perhaps the last time I would speak to him, I asked:
 
 "Mr. {{< var mogu >}}, why don't Yiddish actors copy you? Comedians try to imitate [Bernstein](https://www.museumoffamilyhistory.com/yt/lex/B/bernstein-berl.htm), Torenberen^[I am unable to find a reference for this person: טאָרענבערען] (a comedian from the earliest days in America). But nobody imitates you."
 
-{{< var mogu >}} answered my quietly, with his "{{< var mogu-full >}} smile:"
+{{< var mogu >}} answered my quietly, with his {{< var mogu-full >}} smile, "{{< var sam-full >}} does, and so very well. But when {{< var sam-full >}} copies me, I suddenly transform into a Broadway actor."
 
-"{{< var sam-full >}} does, and so very well. But when {{< var sam-full >}} copies me, I suddenly transform into a Broadway actor."
+And that's who {{< var sam-full >}} is.
 
-And that's {{< var sam-full >}}.
+When he isn't performing, you can see him out and about in his "{{< var sam-kestin >}}-esque" manner. His goal is to attract the American youth to the Yiddish theater, and in this he was once successful. My son - now a 30-year-old grown man - used to imitate {{< var kestin >}} - he'd talk like him, sing like him, walk, dance, and even eat and sleep with {{< var sam-full >}}'s songs on his lips. And my child was only one of many such children.
 
-When he isn't performing, you can see him out and about in his "{{< var sam-kestin >}}-esque" manner. His vibe attracts the American youth to the Yiddish stage, and successfully too. 
+But it was in _chasidishe_ roles where actors would dance in quartets and sing little Jewish duets - real Jewish "kugel duets"^[קוגעל–דועטעל] - and in the days when {{< var sam-kestin >}} would appear on stage with the old [Lazer Zuckerman](https://archive.nyu.edu/handle/2451/55820), who has been referred to as "The Father of Yiddish Comedians," could you really see {{< var kestin >}}'s true essence. As he used to say, "If I wanted to, I could stop acting _a là Broadway_ and be a real "Goldfaden-actor"^[i.e., thoroughly Yiddish, not American]. What I mean by "Goldfaden-actor" is - my opinion after many years of experience in the Yiddish theater is that just a serious English-language actor can't truly come into his own until he performs Shakespeare, neither can an authentic Yiddish actor truly be a good actor until he has mastered the Goldfaden school and absorbed Goldfaden's prose and songs.
 
-My son, who is already a young man of 30 used to copy {{< var kestin >}} - he'd talk like him, sing like him, walk, dance, and even eat and sleep with {{< var sam-full >}}'s songs on his lips.
+Though he ran to Broadway to see every American play and listen to and learn by heart almost every joke from American comedians, {{< var sam-kestin >}} was raised on Goldfaden's prose and music. {{< var kestin >}} is himself a blend of the old Goldfaden and the modern Broadway theater. You could say he's of the "{{< var sam-kestin >}} era."
+
+And I have a gripe with the youth, to today's dancers and jumpers - or as the Americans call them, _"the jumping jacks"_ - who follow only the Broadway style and have unfortunately nothing to do with the Yiddish theater, even though they are on the Yiddish stage. Not only are they totally divorced from the Yiddish stage even while appearing on it, they aren't even interested in Yiddish writing or the Yiddish press, except to check on Fridays if their picture is featured on the "theater page."
+
+{{< var sam-kestin >}} indeed brought _"a là Broadway"_ to the Yiddish stage, but as mentioned, from behind the Goldfaden and Gordin curtain.
+
+David Kessler and {{< var sam-kestin >}} were very good friends and used to _kibbitz_, and their _kibbitzing_ would go something like this^[Read Sam's version of this [in his memoirs](https://sjspielman.github.io/sam-kasten-memoirs/chapters/36_1947-01-18.html)]:
+
+David Kessler would meet {{< var kestin >}} in the street and say to him:
+
+"Hello, Kasey (his nickname for {{< var kestin >}}). I can do it too." And in the same breath, David Kessler would put his walking stick under his arm do a little dance and a jump.
+
+{{< var kestin >}} would answer him, "No, David, that's not it. You're making it too dramatic." 
+
+Kessler would become serious: "_Look_, _look_, Kasey. I'll do it again." And he'd do a jump and a dance.
+
+{{< var kestin >}} would say, "That's a little bit better, but still too dramatic." And then {{< var kestin >}} would position himself to dance and jump in his own way, and he'd say: "_Nu, David, how do you like it_?"
+
+And David Kessler would hug him and grumble, "_Kasey, you're alright!_"
+
+No matter how interesting or strong a play might be, the lives of actors are always more interesting than the roles they play. They really are engimas.
+
+Our dear {{< var sam-kestin >}}, for example. He made it through the early days, the cradle of the Yiddish theater. And by "made it through," I mean he toiled through hunger, suffering, a penniless existence, days of nothing to eat, and sleepless nights. When he finally made a career for himself on the stage, he didn't follow the norms that the doctors and private citizens alike preach. {{< var kestin >}} ate whatever his heart desired, drank whatever his eyes could see, and immersed himself in the typical actor's nightlife. Yet admirably, every morning at rehearsals when the other actors would show up completely exhausted after a sleepness night, {{< var kestin >}} stood tall with his white head of hair and full-blooded face and neatly pressed suit with script in hand, dancing and jumping. He would tease his colleagues, saying "You punks, you young rascals... you've finished before you've even gotten started! You have your "shoulders on your heads"^[perhaps an inverse idiom of "good head on your shoulders" as a charming insult] before your hair is even grown out. You're hoarse before we've even heard you sing properly."
+
+And everyone would look at {{< var kestin >}} almost with envy, and the _kibbitzers_ among them would say ironically, "Oh sure, look at {{< var kestin >}}. You do everything you're supposed to you, and you end up looking like him!"
+
+And {{< var kestin >}} would answer, "I'll have you know, you little punks, I do everything I'm supposed to. I'm 65 but I feel like 30. You're not even up on the stage yet, and still you're on your way down."
+
+And when {{< var sam-kestin >}} would come around the Cafe Royal and look around the tables where all the actors sat and the so-called stars gathered, screaming and divvying up roles and doling out orders. He would think to himself, "I'm jealous of you - Adler, Kessler, Mogulesko - who don't have to see the chaos of today, this _toho va'boho_^[chaos; this is a Biblical phrase in Genesis describing the chaos before the creation of light], this _hakol shochtin_^[Talmudic phrase technically provisioning that anyone who can perform kosher slaughter is permitted to do so]. Yes, Gordin was right: Everyone slaughters on the stage, but none of the slaughter is kosher. 
+
+If a journalist entered the cafe, upon seeing {{< var kestin >}} he would say, "How are you, {{< var kestin >}}?"
+
+And {{< var kestin >}} would reply, "If I were in your place, a writer, I would write that all of life is a dance, a jump - _that's all_!"
+
+
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="45%"}
+
+
+![](img/1936-04-17-forverts.png)
+
+:::
+
+::::
