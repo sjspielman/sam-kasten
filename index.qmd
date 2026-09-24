@@ -6,8 +6,6 @@ Welcome to the _Sam Kasten Legacy Project_ (דאָס סעם קעסטין לעב�
 
 Sam Kasten^[written in Yiddish as "Kestin": סעם קעסטין] (1869-1953), one of my paternal great-great grandfathers^[more specifically, my paternal grandmother's maternal grandfather], was a beloved comedian/actor/song-and-dance man in the American Yiddish theater in the early 1900s. 
 
-This website is an active work-in-progress landing page for materials reviving his legacy.
-
 On this site, you'll find...
 
 * A biography, pictures, and songs on the [About Sam](./about-sam.qmd) page
@@ -16,4 +14,4 @@ On this site, you'll find...
 
 Want to connect? Reach me at `stephanie.spielman <at> gmail <dot> com`!
 
-(A note to the Yiddishists: My occasional Yiddish transliteration does not follow the YIVO standard. Rather, I follow the orthographic tradition of the Yiddish press, and do whatever feels right in my _neshuma_.)
+(A note to the Yiddishists: My occasional Yiddish transliteration does not follow the YIVO standard. Rather, I follow the orthographic tradition of the early American Yiddish press and do whatever feels right in my _neshuma_ at the time. This can of course vary from sentence-to-sentence, as indeed it did in the Yiddish press!)
